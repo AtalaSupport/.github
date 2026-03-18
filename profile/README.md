@@ -16,7 +16,7 @@ If a demo name link does not have a `C# / VB.net` immeditely following, the link
 You may also find our [full list of current demos](https://www.atalasoft.com/kb2/KB/50086/INFO-Current-Demos-DotImage-WingScan-DotPdf-and-DotTwain-Sample-Applications-Sources) on our Knowledgebase
 
 
-## Web Demos[](#web)
+## Web Demos
 ### HTML 5 WebDocumentViewer (WDV)[](https://www.atalasoft.com/kb2/KB/50086/INFO-Current-Demos-DotImage-WingScan-DotPdf-and-DotTwain-Sample-Applications-Sources#html-5-webdocumentviewer-wdv)
 
 - [WDV Annotation Loader Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/AnnotationLoader.zip) (convenience class for loading WDV annotations)
@@ -32,7 +32,7 @@ You may also find our [full list of current demos](https://www.atalasoft.com/kb2
 - [Basic WebCapture (no Viewer) With Require JS](https://atalasupport.net/kb/50393-requireJS/BasicWebCapture_noViewer_RequireJS.zip)
 - [Basic WebCapture (with Viewer) With Require JS](https://atalasupport.net/kb/50393-requireJS/BasicWebCapture_withViewer_RequireJS.zip)
 
-## Desktop (Winforms, Console, and WPF){#desktop}
+## Desktop (Winforms, Console, and WPF)
 ### Newest
 A selection of the very newest samples we've created.  
 
@@ -52,8 +52,8 @@ Samples / Solutions for desktop use for reproducing issues or using as a generic
 - [TWAIN Acquisition Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_TwainAcquisitionDemo_CS_x86) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_TwainAcquisitionDemo_CS_x86/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_TwainAcquisitionDemo_VB_x86/archive/refs/heads/main.zip)  
     This is a 32 bit demo that shows just DotTwain without any of our viewer objects - its a great best practices for DotTwain.  
     
-- [Annotation Viewer Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/DocumentAnnotationViewer.zip)  
-  The Annotation Viewer Demo (Formerly Document Annotation Viewer Demo) demonstrates how use our DocumentAnnotationViewer control.
+- [Document Annotation Viewer Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentAnnotationViewerDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentAnnotationViewerDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET
+  The Document Annotation Viewer Demo demonstrates how use our DocumentAnnotationViewer control.
   
   This demo should be used to gain a basic understanding of how the DotImage DocumentAnnotationViewer functions.
   
