@@ -32,7 +32,7 @@ You may also find our [full list of current demos](https://www.atalasoft.com/kb2
 - [Basic WebCapture (no Viewer) With Require JS](https://atalasupport.net/kb/50393-requireJS/BasicWebCapture_noViewer_RequireJS.zip)
 - [Basic WebCapture (with Viewer) With Require JS](https://atalasupport.net/kb/50393-requireJS/BasicWebCapture_withViewer_RequireJS.zip)
 
-## Desktop (Winforms, Console, and WPF)[](#desktop)
+## Desktop (Winforms, Console, and WPF)(#desktop)
 ### Newest
 A selection of the very newest samples we've created.  
 
