@@ -16,7 +16,7 @@ If a demo name link does not have a `C# / VB.net` immeditely following, the link
 You may also find our [full list of current demos](https://www.atalasoft.com/kb2/KB/50086/INFO-Current-Demos-DotImage-WingScan-DotPdf-and-DotTwain-Sample-Applications-Sources) on our Knowledgebase
 
 
-## Web Demos
+## Web Demos[](#web)
 ### HTML 5 WebDocumentViewer (WDV)[](https://www.atalasoft.com/kb2/KB/50086/INFO-Current-Demos-DotImage-WingScan-DotPdf-and-DotTwain-Sample-Applications-Sources#html-5-webdocumentviewer-wdv)
 
 - [WDV Annotation Loader Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/AnnotationLoader.zip) (convenience class for loading WDV annotations)
@@ -32,7 +32,7 @@ You may also find our [full list of current demos](https://www.atalasoft.com/kb2
 - [Basic WebCapture (no Viewer) With Require JS](https://atalasupport.net/kb/50393-requireJS/BasicWebCapture_noViewer_RequireJS.zip)
 - [Basic WebCapture (with Viewer) With Require JS](https://atalasupport.net/kb/50393-requireJS/BasicWebCapture_withViewer_RequireJS.zip)
 
-## Desktop (Winforms, Console, and WPF)
+## Desktop (Winforms, Console, and WPF)[](#desktop)
 ### Newest
 A selection of the very newest samples we've created.  
 
