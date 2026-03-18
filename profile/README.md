@@ -9,7 +9,11 @@ However, this is a site for our support resources, not really for marketing. If 
 
 Herein, you will find our public Sample apps / demo repositiories. This is still a work in progress, as we migrate projects in.
 
-Until the switchover is complete, you may find our [full list of current demos](https://www.atalasoft.com/kb2/KB/50086/INFO-Current-Demos-DotImage-WingScan-DotPdf-and-DotTwain-Sample-Applications-Sources) on our Knowledgebase
+Until the switchover is complete, if a demo shows `C# / VB.NET` (with or without links) for the code section, then the repo is live on our GitHub (if VB.NET is missing it may be that we've not gotten to that one yet as we've focused on C# first)
+
+If a demo name link does not have a `C# / VB.net` immeditely following, the link will take you to a slightly older download
+
+You may also find our [full list of current demos](https://www.atalasoft.com/kb2/KB/50086/INFO-Current-Demos-DotImage-WingScan-DotPdf-and-DotTwain-Sample-Applications-Sources) on our Knowledgebase
 
 
 ## Web Demos
