@@ -1,6 +1,13 @@
 # AtalaSupport - Atalasoft Support Github
 
-Setting up a public profile
+This is the GitHub for [Atalasoft Support](https://www.atalasoft.com/Support).
+
+Herein, you will find our public Sample apps / demo repositiories. This is still a work in progress, as we migrate projects in.
+
+Until the switchover is complete, you may find our [full list of current demos](https://www.atalasoft.com/kb2/KB/50086/INFO-Current-Demos-DotImage-WingScan-DotPdf-and-DotTwain-Sample-Applications-Sources) on our Knowledgebase
+
+
+
 
 
 
