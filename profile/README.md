@@ -22,29 +22,29 @@ You may also find our [full list of current demos](https://www.atalasoft.com/kb2
 - [WDV Annotation Loader Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/AnnotationLoader.zip) (convenience class for loading WDV annotations)
 - [Web Viewing (WDV) Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/WebViewingDemo.zip) (WebDocumentViewer)
 
-### WingScan (Web Capture)[](https://www.atalasoft.com/kb2/KB/50086/INFO-Current-Demos-DotImage-WingScan-DotPdf-and-DotTwain-Sample-Applications-Sources#wingscan-web-capture)
+### WingScan (Web Capture)
 
 - [WingScan (Web Scanning) Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/WingScanDemo.zip)
 
-### RequireJS (Modularzed) WebDocumentViewer / WebCapture[](https://www.atalasoft.com/kb2/KB/50086/INFO-Current-Demos-DotImage-WingScan-DotPdf-and-DotTwain-Sample-Applications-Sources#requirejs-modularzed-webdocumentviewer-webcapture)
+### RequireJS (Modularzed) WebDocumentViewer / WebCapture
 
 - [Basic WDV With Require JS](https://atalasupport.net/kb/50393-requireJS/BasicWdv_RequireJS.zip)
 - [Basic WebCapture (no Viewer) With Require JS](https://atalasupport.net/kb/50393-requireJS/BasicWebCapture_noViewer_RequireJS.zip)
 - [Basic WebCapture (with Viewer) With Require JS](https://atalasupport.net/kb/50393-requireJS/BasicWebCapture_withViewer_RequireJS.zip)
 
 ## Desktop (Winforms, Console, and WPF)
-### Newest[](https://www.atalasoft.com/kb2/KB/50086/INFO-Current-Demos-DotImage-WingScan-DotPdf-and-DotTwain-Sample-Applications-Sources#newest)
+### Newest
 A selection of the very newest samples we've created.  
 
 - [HtmlToPdf](https://www.atalasupport.net/demos/ModernDemos-11.5/HtmlToPdf.zip) - A demo showing how to use the new HtmlDecoder and TxtDecoder.
 
-### Minimal Test Harness / Repro Solutions[](https://www.atalasoft.com/kb2/KB/50086/INFO-Current-Demos-DotImage-WingScan-DotPdf-and-DotTwain-Sample-Applications-Sources#minimal-test-harness-repro-solutions)
+### Minimal Test Harness / Repro Solutions
 Samples / Solutions for desktop use for reproducing issues or using as a generic starting point
 
 - [SimpleAtalaConsole](https://github.com/AtalaSupport/SimpleAtalaConsole/wiki) - [C#](https://github.com/AtalaSupport/SimpleAtalaConsole/archive/refs/heads/main.zip) / VB.NET  
     This is a Minimal .NET Framework Console App which is useful as a minimal repro / test harness
 
-### Most Common / Popular[](https://www.atalasoft.com/kb2/KB/50086/INFO-Current-Demos-DotImage-WingScan-DotPdf-and-DotTwain-Sample-Applications-Sources#most-common-popular)
+### Most Common / Popular
 
 - [Advanced Scan-to-File Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_AdvancedScanToFileDemo_CS_x86) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_AdvancedScanToFileDemo_CS_x86/archive/refs/heads/main.zip) / VB.NET  
   This is a 32 bit demo that shows how to integrate TWAIN scanning with our WinForms DocumentAnnotationViewer control.
@@ -123,7 +123,8 @@ Samples / Solutions for desktop use for reproducing issues or using as a generic
   
   See below for WPFDemo if you just want a non-annotation-aware WPF Image Viewer.
 
-### Other Demos[](https://www.atalasoft.com/kb2/KB/50086/INFO-Current-Demos-DotImage-WingScan-DotPdf-and-DotTwain-Sample-Applications-Sources#other-demos)
+### Other Demos
+Over the years, we had a lot of demos - these are the rest of those classics - kept updated for the latest releases.
 
 - [AdvancedDocClean Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_AdvancedDocCleanDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_AdvancedDocCleanDemo_CS_x64/archive/refs/heads/main.zip)  / VB.NET  
   Demonstrates each of the Document Cleanup and processing commands available in the DotImage Advanced Document Cleanup Module. Shows the before and after images side by side and provides access to each property of each available command. Requires a license of DotImage Document Imaging and DotImage Advanced Document Cleanup to run the compiled demo.  
