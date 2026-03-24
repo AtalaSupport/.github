@@ -118,7 +118,7 @@ Samples / Solutions for desktop use for reproducing issues or using as a generic
   
   By setting a handler for PdfEnc.SetEncoderCompression, we are able to dynamically select the most appropriate form of image compression to apply, based on the PixelFormat (color depth) of each page.  
 
-- [WPF Annotations Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_WpfAnnotationsDemoDemo_CS_x64)  - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_WpfAnnotationsDemoDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET
+- [WPF Annotations Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_WpfAnnotationsDemoDemo_CS_x64)  - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_WpfAnnotationsDemoDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET]([https://github.com/AtalaSupport/DemoGallery_Desktop_WpfAnnotationsDemoDemo_VB_x64/archive/refs/heads/main.zip)  
   This is a WPF application that shows how to use our WPF Annotation Viewer control. The source code should provide a good working example of how yo use our AtalaAnnotationViewer (the WPF version of our AnnotateViewer Windows Forms control) and our annotations in a WPF application .
   
   See below for WPFDemo if you just want a non-annotation-aware WPF Image Viewer.
