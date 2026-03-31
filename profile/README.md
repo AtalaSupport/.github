@@ -59,7 +59,7 @@ Samples / Solutions for desktop use for reproducing issues or using as a generic
   
   The demo allows you to open various supported image files, automatically loading any supported embedded annotations. It also allows the creation / editing of various annotation types and saving out the resulting file with annotations being embedded for supported formats. Additionally, it shows the ease of use of the built in undo/redo manager, as well as cut, copy, and paste of annotations, and even full document printing with annotations. Requires DotImage license. Optionally, requires PdfRasterizer license in order to open/read PDF files.
 
-- [Barcode Reader Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_BarcodeReaderDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_BarcodeReaderDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
+- [Barcode Reader Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_BarcodeReaderDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_BarcodeReaderDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_BarcodeReaderDemo_VB_x64/archive/refs/heads/main.zip)    
   The Barcode Reader Demo demonstrates how to read a barcode from an image. This demo should be used to gain a basic understanding of how the DotImage Barcode recognition functions. The demo allows you to set options, such as barcode types, scan directions, scan interval and the number of expected barcodes. 
   
   If you are having trouble recognizing a barcode, this demo may help to see why. Requires DotImage and DotImage BarcodeReader. 
