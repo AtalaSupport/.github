@@ -41,7 +41,7 @@ A selection of the very newest samples we've created.
 ### Minimal Test Harness / Repro Solutions
 Samples / Solutions for desktop use for reproducing issues or using as a generic starting point
 
-- [SimpleAtalaConsole](https://github.com/AtalaSupport/SimpleAtalaConsole/wiki) - [C#](https://github.com/AtalaSupport/SimpleAtalaConsole/archive/refs/heads/main.zip) / VB.NET  
+- [SimpleAtalaConsole](https://github.com/AtalaSupport/SimpleAtalaConsole/wiki) - [C# x64](https://github.com/AtalaSupport/SimpleAtalaConsole/archive/refs/heads/main.zip) / [VB.NET x64](https://github.com/AtalaSupport/SimpleAtalaConsoleVB/archive/refs/heads/main.zip)  
     This is a Minimal .NET Framework Console App which is useful as a minimal repro / test harness
 
 ### Most Common / Popular
