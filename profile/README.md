@@ -1,26 +1,33 @@
-# Atalasoft Support Github
+# Atalasoft Support GitHub
 
 This is the GitHub for [Atalasoft Support](https://www.atalasoft.com/Support).
 
-Atalasoft's flagship product is DotImage Documenet Imaging SDK. This is a .NET (.NET Framework and .NET) Windows Software Development Kit (SDK). 
+Atalasoft's flagship product is DotImage Document Imaging SDK. This is a .NET (.NET Framework and .NET) Windows Software Development Kit (SDK). 
 
 However, this is a site for our support resources, not really for marketing. If you'd like to know more about what Atalasoft SDKs can do for you, please visit our [products page](https://www.atalasoft.com/Products)
 
 
-Herein, you will find our public Sample apps / demo repositiories. This is still a work in progress, as we migrate projects in.
+Herein, you will find our public Sample apps / demo repositories. This is still a work in progress, as we migrate projects in.
 
 Until the switchover is complete, if a demo shows `C# / VB.NET` (with or without links) for the code section, then the repo is live on our GitHub (if VB.NET is missing it may be that we've not gotten to that one yet as we've focused on C# first)
 
-If a demo name link does not have a `C# / VB.net` immeditely following, the link will take you to a slightly older download
+If a demo name link does not have a `C# / VB.net` immediately following, the link will take you to a slightly older download
 
 You may also find our [full list of current demos](https://www.atalasoft.com/kb2/KB/50086/INFO-Current-Demos-DotImage-WingScan-DotPdf-and-DotTwain-Sample-Applications-Sources) on our Knowledgebase
 
+---
 
 ## Web Demos
 ### HTML 5 WebDocumentViewer (WDV)[](https://www.atalasoft.com/kb2/KB/50086/INFO-Current-Demos-DotImage-WingScan-DotPdf-and-DotTwain-Sample-Applications-Sources#html-5-webdocumentviewer-wdv)
 
-- [WDV Annotation Loader Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/AnnotationLoader.zip) (convenience class for loading WDV annotations)
-- [Web Viewing (WDV) Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/WebViewingDemo.zip) (WebDocumentViewer)
+- [Web Viewing (WDV) Demo](https://github.com/AtalaSupport/DemoGallery_Web_WebViewingDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Web_WebViewingDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET
+  A demo showing our flagship WebDocumentViewer (with WebDocumentThumbnailer) with file upload enabled as well as an example of how implement printing
+
+- Simple WDV with WDT 
+  This is a minimal test harness / repro. Please see the link to it in the section on Test Harness / Repro below
+
+- [WDV Annotation Loader Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/AnnotationLoader.zip) 
+  This is a convenience class library example for loading WDV annotations, not terribly useful on its own
 
 ### WingScan (Web Capture)
 
@@ -32,7 +39,7 @@ You may also find our [full list of current demos](https://www.atalasoft.com/kb2
 - [Basic WebCapture (no Viewer) With Require JS](https://atalasupport.net/kb/50393-requireJS/BasicWebCapture_noViewer_RequireJS.zip)
 - [Basic WebCapture (with Viewer) With Require JS](https://atalasupport.net/kb/50393-requireJS/BasicWebCapture_withViewer_RequireJS.zip)
 
-## Desktop (Winforms, Console, and WPF)
+## Desktop (WinForms, Console, and WPF)
 ### Newest
 A selection of the very newest samples we've created.  
 
@@ -42,7 +49,10 @@ A selection of the very newest samples we've created.
 Samples / Solutions for desktop use for reproducing issues or using as a generic starting point
 
 - [SimpleAtalaConsole](https://github.com/AtalaSupport/SimpleAtalaConsole/wiki) - [C# x64](https://github.com/AtalaSupport/SimpleAtalaConsole/archive/refs/heads/main.zip) / [VB.NET x64](https://github.com/AtalaSupport/SimpleAtalaConsoleVB/archive/refs/heads/main.zip)  
-    This is a Minimal .NET Framework Console App which is useful as a minimal repro / test harness
+  This is a Minimal .NET Framework Console App which is useful as a minimal repro / test harness
+
+- [Simple WDV with WDT](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVwithWDT_CS_x64)  [C#](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVwithWDT_CS_x64/archive/refs/heads/main.zip) / VB.NET
+  (Minimal teaching example and Test / Repro harness)
 
 ### Most Common / Popular
 
@@ -50,8 +60,8 @@ Samples / Solutions for desktop use for reproducing issues or using as a generic
   This is a 32 bit demo that shows how to integrate TWAIN scanning with our WinForms DocumentAnnotationViewer control.
 
 - [TWAIN Acquisition Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_TwainAcquisitionDemo_CS_x86) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_TwainAcquisitionDemo_CS_x86/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_TwainAcquisitionDemo_VB_x86/archive/refs/heads/main.zip)  
-    This is a 32 bit demo that shows just DotTwain without any of our viewer objects - its a great best practices for DotTwain.  
-    
+  This is a 32 bit demo that shows just DotTwain without any of our viewer objects - its a great best practices for DotTwain.  
+
 - [Document Annotation Viewer Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentAnnotationViewerDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentAnnotationViewerDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET
   The Document Annotation Viewer Demo demonstrates how use our DocumentAnnotationViewer control.
   
@@ -69,7 +79,7 @@ Samples / Solutions for desktop use for reproducing issues or using as a generic
    
 - [DotAnnotate Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DotAnnotateDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DotAnnotateDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   This demo shows our AnnotateViewer and the Desktop version of our AnnotationUI classes to read, write and modify annotations on images.  
-    
+
 - [DotImage Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DotImageDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DotImageDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   The most comprehensive of all the demos demonstrating most of the image processing commands and codecs. This is a good place to learn about the UI features that dotImage offers, as well as testing of image effects, and transforms.   
 
@@ -110,7 +120,7 @@ Samples / Solutions for desktop use for reproducing issues or using as a generic
   Pre-Processing options (deskewing, border removal, text inversion and line removal) are also provided. 
   
   >**Note:** This sample app is fairly bare-bones, but the concepts covered can easily be applied to your console app, windows service, web service, etc...    
-    
+
 - [TIFF to PDF Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_TIFFtoPDFDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_TIFFtoPDFDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   Sample app of best practice to convert multi-page TIFF to PDF (but supports other supported single frame formats as well, such as BMP, JPG, PNG, etc...). A very simple console app that converts a TIFF file into a PDF by using in a memory-efficient way using FileSystemImageSource, which is used to read each frame of the target file directly into a PDF Encoder. Each page read will trigger a Compression Selector event so you can choose the best compression to use for that specific page's Pixel Format.
   
