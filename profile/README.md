@@ -20,10 +20,10 @@ You may also find our [full list of current demos](https://www.atalasoft.com/kb2
 ## Web Demos
 ### HTML 5 WebDocumentViewer (WDV)[](https://www.atalasoft.com/kb2/KB/50086/INFO-Current-Demos-DotImage-WingScan-DotPdf-and-DotTwain-Sample-Applications-Sources#html-5-webdocumentviewer-wdv)
 
-- [Web Viewing (WDV) Demo](https://github.com/AtalaSupport/DemoGallery_Web_WebViewingDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Web_WebViewingDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET
+- [Web Viewing (WDV) Demo](https://github.com/AtalaSupport/DemoGallery_Web_WebViewingDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Web_WebViewingDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET (not currently available)
   A demo showing our flagship WebDocumentViewer (with WebDocumentThumbnailer) with file upload enabled as well as an example of how implement printing
 
-- Simple WDV with WDT 
+- [Simple WDV with WDT](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVwithWDT_CS_x64)
   This is a minimal test harness / repro. Please see the link to it in the section on Test Harness / Repro below
 
 - [WDV Annotation Loader Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/AnnotationLoader.zip) 
@@ -31,13 +31,16 @@ You may also find our [full list of current demos](https://www.atalasoft.com/kb2
 
 ### WingScan (Web Capture)
 
-- [WingScan (Web Scanning) Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/WingScanDemo.zip)
+- [WingScan (Web Scanning) Demo](https://github.com/AtalaSupport/DemoGallery_Web_WingScanDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Web_WingScanDemo_CS_x64/archive/refs/heads/main.zip)  / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Web_WingScanDemo_VB_x64/archive/refs/heads/main.zip)
+  Wing Scan is our flagship web-based-scanning component (WebCapture). Demo is available in both VB.NET and C#. 
+  
+  Please also have a look at our [WingScan .NET Framework](https://www.atalasoft.com/KB2/KB/50370/INFO-WebDocumentViewer-Whitepaper-Getting-Started-With-Web-Viewing) or [WingScan .NET 8+](https://www.atalasoft.com/kb2/KB/50410/INFOWDV-and-WebCapture-In-NET-8-Whitepaper-Getting-Started) tutorials.
 
 ### RequireJS (Modularzed) WebDocumentViewer / WebCapture
 
-- [Basic WDV With Require JS](https://atalasupport.net/kb/50393-requireJS/BasicWdv_RequireJS.zip)
-- [Basic WebCapture (no Viewer) With Require JS](https://atalasupport.net/kb/50393-requireJS/BasicWebCapture_noViewer_RequireJS.zip)
-- [Basic WebCapture (with Viewer) With Require JS](https://atalasupport.net/kb/50393-requireJS/BasicWebCapture_withViewer_RequireJS.zip)
+- [Basic WDV With Require JS](https://github.com/AtalaSupport/DemoGallery_Web_BasicWdv_RequireJS_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Web_BasicWdv_RequireJS_CS_x64/archive/refs/heads/main.zip) / VB.NET (not currently available)
+- [Basic WebCapture (no Viewer) With Require JS](https://github.com/AtalaSupport/DemoGallery_Web_BasicWebCapture_noViewer_RequireJS_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Web_BasicWebCapture_noViewer_RequireJS_CS_x64/archive/refs/heads/main.zip) / VB.NET (not currently available)
+- [Basic WebCapture (with Viewer) With Require JS](https://github.com/AtalaSupport/DemoGallery_Web_BasicWebCapture_withViewer_RequireJS) [C#](https://github.com/AtalaSupport/DemoGallery_Web_BasicWebCapture_withViewer_RequireJS/archive/refs/heads/main.zip) / VB.NET (not currently available)
 
 ## Desktop (WinForms, Console, and WPF)
 ### Newest
@@ -52,7 +55,7 @@ Samples / Solutions for desktop use for reproducing issues or using as a generic
   This is a Minimal .NET Framework Console App which is useful as a minimal repro / test harness
 
 - [Simple WDV with WDT](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVwithWDT_CS_x64)  [C#](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVwithWDT_CS_x64/archive/refs/heads/main.zip) / VB.NET
-  (Minimal teaching example and Test / Repro harness)
+  Minimal teaching example and Test / Repro harness for our modern WebDocumentViewer and WebDocumentThumbnailer.
 
 ### Most Common / Popular
 
@@ -62,7 +65,7 @@ Samples / Solutions for desktop use for reproducing issues or using as a generic
 - [TWAIN Acquisition Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_TwainAcquisitionDemo_CS_x86) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_TwainAcquisitionDemo_CS_x86/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_TwainAcquisitionDemo_VB_x86/archive/refs/heads/main.zip)  
   This is a 32 bit demo that shows just DotTwain without any of our viewer objects - its a great best practices for DotTwain.  
 
-- [Document Annotation Viewer Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentAnnotationViewerDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentAnnotationViewerDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET
+- [Document Annotation Viewer Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentAnnotationViewerDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentAnnotationViewerDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentAnnotationViewerDemo_VB_x64/archive/refs/heads/main.zip)
   The Document Annotation Viewer Demo demonstrates how use our DocumentAnnotationViewer control.
   
   This demo should be used to gain a basic understanding of how the DotImage DocumentAnnotationViewer functions.
@@ -119,7 +122,12 @@ Samples / Solutions for desktop use for reproducing issues or using as a generic
   
   Pre-Processing options (deskewing, border removal, text inversion and line removal) are also provided. 
   
-  >**Note:** This sample app is fairly bare-bones, but the concepts covered can easily be applied to your console app, windows service, web service, etc...    
+  > **Note:** This sample app is fairly bare-bones, but the concepts covered can easily be applied to your console app, windows service, web service, etc...    
+
+- [Simple OCR Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_SimpleOCRDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_SimpleOCRDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_SimpleOCRDemo_VB_x64/archive/refs/heads/main.zip)  
+  A sample application to show how to use our currently supported OCR Engines.
+  
+  This 2026.2 version features Tesseract5Engine, GlyphReaderEngine, and OmniPageEngine
 
 - [TIFF to PDF Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_TIFFtoPDFDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_TIFFtoPDFDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   Sample app of best practice to convert multi-page TIFF to PDF (but supports other supported single frame formats as well, such as BMP, JPG, PNG, etc...). A very simple console app that converts a TIFF file into a PDF by using in a memory-efficient way using FileSystemImageSource, which is used to read each frame of the target file directly into a PDF Encoder. Each page read will trigger a Compression Selector event so you can choose the best compression to use for that specific page's Pixel Format.
@@ -142,7 +150,7 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
 - [Citrix TWAIN Scanning Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_CitrixScanningDemo_CS_x86) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_CitrixScanningDemo_CS_x86/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_CitrixScanningDemo_VB_x86/archive/refs/heads/main.zip)  
   TWAIN Scanning under Citrix (and RemoteDesktop) requires a slightly different approach with our DotTwain components. This is a companion solution to our [HOWTO: Scan through Citrix or RDP (Terminal Server)](https://www.atalasoft.com/kb2/KB/50227/HOWTO-Scan-through-Citrix-or-RDP-Terminal-Server) KB article.  
 
-- [ColorExtraction Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_ColorExtractionDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_ColorExtractionDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
+- [Color Extraction Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_ColorExtractionDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_ColorExtractionDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   This application provides a demonstration of the ColorExtractionCommand included in the Atalasoft DotImage Advanced Document Cleanup module.
   
   This command is used to detect color in a color image, and returns a 32-bit BGRA image with the alpha channel covering the non-color regions. This can be used to determine if a scanned image is actually grayscale, in which case the image can be thresholded to B&W and saved using CCIT or JBIG2 compression, or saved as 8-bit grayscale instead of 24-bit color.  
@@ -150,13 +158,13 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
 - [Color Management Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_ColorManagementDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_ColorManagementDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   The Color Management Demo demonstrates how DotImage can use color profiles to display images correctly, and create virtual proofs of images.  
 
-- [CompositeCommand Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositeCommandDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositeCommandDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
+- [Composite Command Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositeCommandDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositeCommandDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   Shows how to take arbitrary ImageCommands and encapsulate and compose them into one new single ImageCommand. Uses reflection to display all image commands in all referenced assemblies.   
 
-- [CompositePrint Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositePrintDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositePrintDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
+- [Composite Print Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositePrintDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositePrintDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   Demonstrates how to use the ImageCompositePrintDocument class to print multiple images on a single page. This is useful for printing multiple photos or a photo collage. It can be used to conserve expensive photo quality paper by efficiently orienting photos on the paper.   
 
-- [CustomCommand Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_CustomCommandDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_CustomCommandDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
+- [Custom Command Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_CustomCommandDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_CustomCommandDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   If all you do is run this demo, you'll see that it merely lets you open an image and then flip it horizontally or vertically.  
   
   However, under the hood, you'll see that instead of just using DotImage's built in and very capable FlipCommand class, we're actually doing the work inside CustomFlipCommand.
@@ -168,10 +176,10 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
 - [Database Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DatabaseDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DatabaseDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   Sample of using our DbImageSource class.  
 
-- [Dicom Leveling Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/DicomLeveling.zip)  
+- [Dicom Leveling Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DicomLevelingDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DicomLevelingDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET 
   Dicom images are specific to the Medical Imaging area, and contain far greater range of brightness / levels than average monitors can show. This demo shows how to traverse various Dicom Levels to see different levels (brightness) of an image.  
 
-- [Dicom Viewer Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/DicomViewer.zip)  
+- [Dicom Viewer Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DicomViewerDemo_CS_x64)  [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DicomViewerDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET
   An implementation of our DicomDecoder with an image viewer.  
 
 - [DocumentViewer Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentViewerDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentViewerDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
@@ -192,7 +200,7 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
 - [DotPdf Template Generator Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/DotPdfTemplateGenerator.zip)  
   A tool to generate a template for use with PdfGeneratedDocument.  
 
-- [ISIS Scanning Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/IsisDemo.zip)  
+- [ISIS Scanning Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_IsisAcquisitionDemo_CS_x86) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_IsisAcquisitionDemo_CS_x86/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_IsisAcquisitionDemo_VB_x86/archive/refs/heads/main.zip)  
   Sample app for using our ISIS scanning. NOTE: this is an x86 example as we do not offer a 64 bit version of the ISIS scanning component.  
 
 - [ISIS Settings Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/IsisSettingsDemo.zip)  
@@ -245,9 +253,6 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
 
 - [RawDecoder Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/RawDemo.zip)  
   RawDecoder can handle raw image formats from many digital SLRs and other high end cameras.
-
-- [Simple OCR Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/SimpleOCR.zip)  
-  A sample application to show how to use our currently supported OCR Engines
 
 - [ThreadedCommand Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/ThreadedCommandDemo.zip)  
   Taking advantage of multithreading to do heavy image processing
