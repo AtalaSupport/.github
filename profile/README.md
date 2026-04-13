@@ -197,7 +197,7 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
 - [DotPdf Shapes Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DotPdfShapesDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DotPdfShapesDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   Shapes are a fundamental building block of a Pdf page - Whether the shapes be text or geometric shapes or images. This is a great "getting started with PdfGeneratedDocument" example.  
 
-- [DotPdf Template Generator Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/DotPdfTemplateGenerator.zip)  
+- [DotPdf Template Generator Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DotPdfTemplateGeneratorDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DotPdfTemplateGeneratorDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   A tool to generate a template for use with PdfGeneratedDocument.  
 
 - [ISIS Scanning Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_IsisAcquisitionDemo_CS_x86) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_IsisAcquisitionDemo_CS_x86/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_IsisAcquisitionDemo_VB_x86/archive/refs/heads/main.zip)  
