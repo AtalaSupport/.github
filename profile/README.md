@@ -185,7 +185,7 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
 - [DocumentViewer Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentViewerDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentViewerDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   Our DocumentViewer Windows Forms viewing control combines a ThumbnailView and WorkspaceViewer into a single control which is designed to prevent common memory issues arising from improper use of the individual controls.  
 
-- [DotPdf Invoice Layout Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/DotPdfInvoiceLayout.zip)  
+- [DotPdf Invoice Layout Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DotPdfInvoiceLayoutDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DotPdfInvoiceLayoutDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   A simple Invoice layout sample using our PdfGeneratedDocument class.  
 
 - [DotPdf Invoice Shape Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/DotPdfInvoiceShape.zip)  
