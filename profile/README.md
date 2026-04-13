@@ -188,7 +188,7 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
 - [DotPdf Invoice Layout Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DotPdfInvoiceLayoutDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DotPdfInvoiceLayoutDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   A simple Invoice layout sample using our PdfGeneratedDocument class.  
 
-- [DotPdf Invoice Shape Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/DotPdfInvoiceShape.zip)  
+- [DotPdf Invoice Shape Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DotPdfInvoiceShapeDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DotPdfInvoiceShapeDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET    
   Creating an "invoice shape" to allow a more advanced Invoice example with PdfGeneratedDocument.  
 
 - [DotPdf Invoice Template Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/DotPdfInvoiceTemplate.zip)  
