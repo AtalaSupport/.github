@@ -26,7 +26,7 @@ You may also find our [full list of current demos](https://www.atalasoft.com/kb2
 - [Simple WDV with WDT](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVwithWDT_CS_x64)
   This is a minimal test harness / repro. Please see the link to it in the section on Test Harness / Repro below
 
-- [WDV Annotation Loader Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/AnnotationLoader.zip) 
+- [WDV Annotation Loader Stub](https://github.com/AtalaSupport/DemoGallery_Web_WdvAnnotationLoaderStub) [C#](https://github.com/AtalaSupport/DemoGallery_Web_WdvAnnotationLoaderStub/archive/refs/heads/main.zip) / VB.NET
   This is a convenience class library example for loading WDV annotations, not terribly useful on its own
 
 ### WingScan (Web Capture)
