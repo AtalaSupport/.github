@@ -209,10 +209,10 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
 - [Jpeg2000 Viewer Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_Jpeg2000ViewerDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_Jpeg2000ViewerDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET
   Simple example of using our Jp2Decoder to view Jpeg2000 images.  
 
-- [Levels and Curves Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/LevelsAndCurvesDemo.zip)  
+- [Levels and Curves Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_LevelsAndCurvesDemo_CS_x64)  [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_LevelsAndCurvesDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   Levels and Curves applied to images.  
 
-- [Low-Level TWAIN Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/LowLevelTwain.zip)  
+- [Low-Level TWAIN Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_LowLevelTwainDemo_CS_x86) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_LowLevelTwainDemo_CS_x86/archive/refs/heads/main.zip) / VB.NET 
   A very low-level example of directly using our TwainController class instead of using the higher level Acquisition class.  
 
 - [Metadata Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/MetadataDemo.zip)  
