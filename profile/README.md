@@ -242,8 +242,8 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
 - [PDF Manipulator Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_PdfManipulatorDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_PdfManipulatorDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   PdfManipulator lets you reorder pages in PDFs via GUI
 
-- [PDF Text Node Extractor](https://www.atalasupport.net/demos/LegacyDemos-11.5/PdfTextNodeExtractor.zip)  
-  Extracting text from searchable PDFs
+- [PDF Text Node Extractor](https://github.com/AtalaSupport/DemoGallery_Desktop_PdfTextNodeExtractorDemo_CS_x64)  [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_PdfTextNodeExtractorDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
+  Extracting text from Pdf Text annotations
 
 - [PhotoEffect Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/PhotoEffectDemo.zip)  
   Various PhotoEffect classes demonstrated
