@@ -245,7 +245,7 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
 - [PDF Text Node Extractor](https://github.com/AtalaSupport/DemoGallery_Desktop_PdfTextNodeExtractorDemo_CS_x64)  [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_PdfTextNodeExtractorDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   Extracting text from Pdf Text annotations
 
-- [PhotoEffect Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/PhotoEffectDemo.zip)  
+- [PhotoEffects Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_PhotoEffectsDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_PhotoEffectsDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET 
   Various PhotoEffect classes demonstrated
 
 - [Pig Latin Custom OCR Translator Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/PigLatin.zip)  
