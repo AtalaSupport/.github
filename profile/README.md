@@ -230,7 +230,7 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
 - [Multithread TWAIN Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_MultithreadTwainDemo_CS_x86) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_MultithreadTwainDemo_CS_x86/archive/refs/heads/main.zip) / VB.NET  
   Using our TWAIN Acquistion class in a Multithreaded Windows Forms context
 
-- [OCR Diagnostic Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/OcrDiagnostic.zip)  
+- [OCR Diagnostic Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_OcrDiagnosticDemo_CS_x64)  [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_OcrDiagnosticDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET
   "See" an image the way OCR does. Useful for determining what went wrong.
 
 - [OfficeDecoder Text Extraction Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/OfficeDecoderTextExtraction.zip)  
