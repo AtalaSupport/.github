@@ -18,7 +18,14 @@ You may also find our [full list of current demos](https://www.atalasoft.com/kb2
 ---
 
 ## Web Demos
-### HTML 5 WebDocumentViewer (WDV)[](https://www.atalasoft.com/kb2/KB/50086/INFO-Current-Demos-DotImage-WingScan-DotPdf-and-DotTwain-Sample-Applications-Sources#html-5-webdocumentviewer-wdv)
+### HTML 5 WebDocumentViewer (WDV)
+
+#### Tutorials
+- [Getting Started with WDV in .NET Framework](https://www.atalasoft.com/KB2/KB/50370/INFO-WebDocumentViewer-Whitepaper-Getting-Started-With-Web-Viewing)
+- [Getting Started with Web Scanning in .NET Framework](https://www.atalasoft.com/kb2/KB/50039/INFO-WingScan-Whitepaper-Getting-Started-with-Web-Scanning)
+- [Getting Started with WebCapture and WDV in .NET 8+](https://www.atalasoft.com/kb2/KB/50410/INFOWDV-and-WebCapture-In-NET-8-Whitepaper-Getting-Started)
+
+#### Demo Apps
 
 - [Web Viewing (WDV) Demo](https://github.com/AtalaSupport/DemoGallery_Web_WebViewingDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Web_WebViewingDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET (not currently available)
   A demo showing our flagship WebDocumentViewer (with WebDocumentThumbnailer) with file upload enabled as well as an example of how implement printing
@@ -41,6 +48,7 @@ You may also find our [full list of current demos](https://www.atalasoft.com/kb2
 - [Basic WDV With Require JS](https://github.com/AtalaSupport/DemoGallery_Web_BasicWdv_RequireJS_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Web_BasicWdv_RequireJS_CS_x64/archive/refs/heads/main.zip) / VB.NET (not currently available)
 - [Basic WebCapture (no Viewer) With Require JS](https://github.com/AtalaSupport/DemoGallery_Web_BasicWebCapture_noViewer_RequireJS_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Web_BasicWebCapture_noViewer_RequireJS_CS_x64/archive/refs/heads/main.zip) / VB.NET (not currently available)
 - [Basic WebCapture (with Viewer) With Require JS](https://github.com/AtalaSupport/DemoGallery_Web_BasicWebCapture_withViewer_RequireJS) [C#](https://github.com/AtalaSupport/DemoGallery_Web_BasicWebCapture_withViewer_RequireJS/archive/refs/heads/main.zip) / VB.NET (not currently available)
+
 
 ## Desktop (WinForms, Console, and WPF)
 ### Newest
