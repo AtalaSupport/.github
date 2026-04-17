@@ -73,8 +73,7 @@ Samples / Solutions for desktop use for reproducing issues or using as a generic
 - [TWAIN Acquisition Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_TwainAcquisitionDemo_CS_x86) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_TwainAcquisitionDemo_CS_x86/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_TwainAcquisitionDemo_VB_x86/archive/refs/heads/main.zip)  
   This is a 32 bit demo that shows just DotTwain without any of our viewer objects - its a great best practices for DotTwain.  
 
-- [Document Annotation Viewer Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentAnnotationViewerDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentAnnotationViewerDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentAnnotationViewerDemo_VB_x64/archive/refs/heads/main.zip)
-  
+- [Document Annotation Viewer Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentAnnotationViewerDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentAnnotationViewerDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentAnnotationViewerDemo_VB_x64/archive/refs/heads/main.zip)  
   The Document Annotation Viewer Demo demonstrates how use our DocumentAnnotationViewer control.
   
   This demo should be used to gain a basic understanding of how the DotImage DocumentAnnotationViewer functions.
@@ -260,7 +259,7 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
 - [Custom OCR Translator Demo (Formerly PigLatin)](https://github.com/AtalaSupport/DemoGallery_Desktop_CustomOcrTranslatorDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_CustomOcrTranslatorDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET
   A "fun" implementation of a custom OcrTranslator. In this case, we apply "Pig Latin" rules to English text to emonstratedae igpay atinlay.
 
-- [RawDecoder Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/RawDemo.zip)  
+- [RAW Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_RawDemo_CS_x64)  [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_RawDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET
   RawDecoder can handle raw image formats from many digital SLRs and other high end cameras.
 
 - [ThreadedCommand Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/ThreadedCommandDemo.zip)  
