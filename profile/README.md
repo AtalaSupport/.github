@@ -74,6 +74,7 @@ Samples / Solutions for desktop use for reproducing issues or using as a generic
   This is a 32 bit demo that shows just DotTwain without any of our viewer objects - its a great best practices for DotTwain.  
 
 - [Document Annotation Viewer Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentAnnotationViewerDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentAnnotationViewerDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentAnnotationViewerDemo_VB_x64/archive/refs/heads/main.zip)
+  
   The Document Annotation Viewer Demo demonstrates how use our DocumentAnnotationViewer control.
   
   This demo should be used to gain a basic understanding of how the DotImage DocumentAnnotationViewer functions.
