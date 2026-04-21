@@ -268,7 +268,7 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
 - [TIFF Manipulator Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_TiffManipulatorDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_TiffManipulatorDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   TiffManipulator shows how you can use our TiffDocument and ThumbnailView control to make a winforms gui to let you rearrange pages in a tiff and even combine or delete pages.
    
-- [TWAIN BarCode Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/TWAINBarCodeDemo.zip)  
+- [TWAIN BarCode Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_TWAINBarCodeDemo_CS_x86)  [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_TWAINBarCodeDemo_CS_x86/archive/refs/heads/main.zip) / VB.NET   
   Shows a common scanning use case - separating a single document with barcode (patch) page separators into separate doucments
 
 - [WPF Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/WpfDemo.zip)  
