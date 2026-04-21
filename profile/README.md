@@ -152,7 +152,7 @@ Samples / Solutions for desktop use for reproducing issues or using as a generic
 ### Other Demos
 Over the years, we had a lot of demos - these are the rest of those classics - kept updated for the latest releases.
 
-- [AdvancedDocClean Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_AdvancedDocCleanDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_AdvancedDocCleanDemo_CS_x64/archive/refs/heads/main.zip)  / VB.NET  
+- [AdvancedDocClean Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_AdvancedDocCleanDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_AdvancedDocCleanDemo_CS_x64/archive/refs/heads/main.zip)  / [VB.NET  ](https://github.com/AtalaSupport/DemoGallery_Desktop_AdvancedDocCleanDemo_VB_x64/archive/refs/heads/main.zip)  
   Demonstrates each of the Document Cleanup and processing commands available in the DotImage Advanced Document Cleanup Module. Shows the before and after images side by side and provides access to each property of each available command. Requires a license of DotImage Document Imaging and DotImage Advanced Document Cleanup to run the compiled demo.  
 
 - [Citrix TWAIN Scanning Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_CitrixScanningDemo_CS_x86) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_CitrixScanningDemo_CS_x86/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_CitrixScanningDemo_VB_x86/archive/refs/heads/main.zip)  
