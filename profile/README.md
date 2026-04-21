@@ -169,7 +169,7 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
 - [Composite Command Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositeCommandDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositeCommandDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositeCommandDemo_VB_x64/archive/refs/heads/main.zip)  
   Shows how to take arbitrary ImageCommands and encapsulate and compose them into one new single ImageCommand. Uses reflection to display all image commands in all referenced assemblies.   
 
-- [Composite Print Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositePrintDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositePrintDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
+- [Composite Print Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositePrintDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositePrintDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositePrintDemo_VB_x64/archive/refs/heads/main.zip)  
   Demonstrates how to use the ImageCompositePrintDocument class to print multiple images on a single page. This is useful for printing multiple photos or a photo collage. It can be used to conserve expensive photo quality paper by efficiently orienting photos on the paper.   
 
 - [Custom Command Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_CustomCommandDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_CustomCommandDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
