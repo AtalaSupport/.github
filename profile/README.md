@@ -33,7 +33,7 @@ You may also find our [full list of current demos](https://www.atalasoft.com/kb2
 - [Simple WDV with WDT](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVwithWDT_CS_x64)
   This is a minimal test harness / repro. Please see the link to it in the section on Test Harness / Repro below
 
-- [WDV Annotation Loader Stub](https://github.com/AtalaSupport/DemoGallery_Web_WdvAnnotationLoaderStub) [C#](https://github.com/AtalaSupport/DemoGallery_Web_WdvAnnotationLoaderStub/archive/refs/heads/main.zip) / VB.NET
+- [WDV Annotation Loader Stub](https://github.com/AtalaSupport/DemoGallery_Web_WdvAnnotationLoaderStub) [C#](https://github.com/AtalaSupport/DemoGallery_Web_WdvAnnotationLoaderStub/archive/refs/heads/main.zip) / VB.NET  
   This is a convenience class library example for loading WDV annotations, not terribly useful on its own
 
 ### WingScan (Web Capture)
@@ -62,7 +62,7 @@ Samples / Solutions for desktop use for reproducing issues or using as a generic
 - [SimpleAtalaConsole](https://github.com/AtalaSupport/SimpleAtalaConsole/wiki) - [C# x64](https://github.com/AtalaSupport/SimpleAtalaConsole/archive/refs/heads/main.zip) / [VB.NET x64](https://github.com/AtalaSupport/SimpleAtalaConsoleVB/archive/refs/heads/main.zip)  
   This is a Minimal .NET Framework Console App which is useful as a minimal repro / test harness
 
-- [Simple WDV with WDT](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVwithWDT_CS_x64)  [C#](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVwithWDT_CS_x64/archive/refs/heads/main.zip) / VB.NET
+- [Simple WDV with WDT](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVwithWDT_CS_x64)  [C#](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVwithWDT_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   Minimal teaching example and Test / Repro harness for our modern WebDocumentViewer and WebDocumentThumbnailer.
 
 ### Most Common / Popular
@@ -187,7 +187,7 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
 - [Dicom Leveling Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DicomLevelingDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DicomLevelingDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET 
   Dicom images are specific to the Medical Imaging area, and contain far greater range of brightness / levels than average monitors can show. This demo shows how to traverse various Dicom Levels to see different levels (brightness) of an image.  
 
-- [Dicom Viewer Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DicomViewerDemo_CS_x64)  [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DicomViewerDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET
+- [Dicom Viewer Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DicomViewerDemo_CS_x64)  [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DicomViewerDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   An implementation of our DicomDecoder with an image viewer.  
 
 - [DocumentViewer Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentViewerDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentViewerDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
@@ -214,7 +214,7 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
 - [ISIS Settings Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/IsisSettingsDemo.zip)  
   Sample app for storing and retrieving ISIS scanning settings. NOTE: this is an x86 example as we do not offer a 64 bit version of the ISIS scanning component.  
 
-- [Jpeg2000 Viewer Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_Jpeg2000ViewerDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_Jpeg2000ViewerDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET
+- [Jpeg2000 Viewer Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_Jpeg2000ViewerDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_Jpeg2000ViewerDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   Simple example of using our Jp2Decoder to view Jpeg2000 images.  
 
 - [Levels and Curves Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_LevelsAndCurvesDemo_CS_x64)  [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_LevelsAndCurvesDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
@@ -238,7 +238,7 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
 - [Multithread TWAIN Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_MultithreadTwainDemo_CS_x86) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_MultithreadTwainDemo_CS_x86/archive/refs/heads/main.zip) / VB.NET  
   Using our TWAIN Acquistion class in a Multithreaded Windows Forms context
 
-- [OCR Diagnostic Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_OcrDiagnosticDemo_CS_x64)  [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_OcrDiagnosticDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET
+- [OCR Diagnostic Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_OcrDiagnosticDemo_CS_x64)  [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_OcrDiagnosticDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   "See" an image the way OCR does. Useful for determining what went wrong.
 
 - [OfficeDecoder Text Extraction Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/OfficeDecoderTextExtraction.zip)  
@@ -256,13 +256,13 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
 - [PhotoEffects Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_PhotoEffectsDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_PhotoEffectsDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET 
   Various PhotoEffect classes demonstrated
 
-- [Custom OCR Translator Demo (Formerly PigLatin)](https://github.com/AtalaSupport/DemoGallery_Desktop_CustomOcrTranslatorDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_CustomOcrTranslatorDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET
+- [Custom OCR Translator Demo (Formerly PigLatin)](https://github.com/AtalaSupport/DemoGallery_Desktop_CustomOcrTranslatorDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_CustomOcrTranslatorDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   A "fun" implementation of a custom OcrTranslator. In this case, we apply "Pig Latin" rules to English text to emonstratedae igpay atinlay.
 
-- [RAW Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_RawDemo_CS_x64)  [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_RawDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET
+- [RAW Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_RawDemo_CS_x64)  [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_RawDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   RawDecoder can handle raw image formats from many digital SLRs and other high end cameras.
 
-- [ThreadedCommand Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/ThreadedCommandDemo.zip)  
+- [Threaded Command Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_ThreadedCommandDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_ThreadedCommandDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   Taking advantage of multithreading to do heavy image processing
 
 - [TIFF Manipulator Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_TiffManipulatorDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_TiffManipulatorDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
