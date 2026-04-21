@@ -158,15 +158,15 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
 - [Citrix TWAIN Scanning Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_CitrixScanningDemo_CS_x86) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_CitrixScanningDemo_CS_x86/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_CitrixScanningDemo_VB_x86/archive/refs/heads/main.zip)  
   TWAIN Scanning under Citrix (and RemoteDesktop) requires a slightly different approach with our DotTwain components. This is a companion solution to our [HOWTO: Scan through Citrix or RDP (Terminal Server)](https://www.atalasoft.com/kb2/KB/50227/HOWTO-Scan-through-Citrix-or-RDP-Terminal-Server) KB article.  
 
-- [Color Extraction Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_ColorExtractionDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_ColorExtractionDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
+- [Color Extraction Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_ColorExtractionDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_ColorExtractionDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_ColorExtractionDemo_VB_x64/archive/refs/heads/main.zip)  
   This application provides a demonstration of the ColorExtractionCommand included in the Atalasoft DotImage Advanced Document Cleanup module.
   
   This command is used to detect color in a color image, and returns a 32-bit BGRA image with the alpha channel covering the non-color regions. This can be used to determine if a scanned image is actually grayscale, in which case the image can be thresholded to B&W and saved using CCIT or JBIG2 compression, or saved as 8-bit grayscale instead of 24-bit color.  
 
-- [Color Management Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_ColorManagementDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_ColorManagementDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
+- [Color Management Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_ColorManagementDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_ColorManagementDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_ColorManagementDemo_VB_x64/archive/refs/heads/main.zip)  
   The Color Management Demo demonstrates how DotImage can use color profiles to display images correctly, and create virtual proofs of images.  
 
-- [Composite Command Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositeCommandDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositeCommandDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
+- [Composite Command Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositeCommandDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositeCommandDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositeCommandDemo_VB_x64/archive/refs/heads/main.zip)  
   Shows how to take arbitrary ImageCommands and encapsulate and compose them into one new single ImageCommand. Uses reflection to display all image commands in all referenced assemblies.   
 
 - [Composite Print Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositePrintDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositePrintDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
