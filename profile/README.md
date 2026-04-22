@@ -90,7 +90,7 @@ Samples / Solutions for desktop use for reproducing issues or using as a generic
 - [DotAnnotate Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DotAnnotateDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DotAnnotateDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_DotAnnotateDemo_VB_x64/archive/refs/heads/main.zip)  
   This demo shows our AnnotateViewer and the Desktop version of our AnnotationUI classes to read, write and modify annotations on images.  
 
-- [DotImage Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DotImageDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DotImageDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
+- [DotImage Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DotImageDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DotImageDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_DotImageDemo_VB_x64/archive/refs/heads/main.zip)  
   The most comprehensive of all the demos demonstrating most of the image processing commands and codecs. This is a good place to learn about the UI features that dotImage offers, as well as testing of image effects, and transforms.   
 
 - [Folder ThumbnailView Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_FolderThumbnailViewDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_FolderThumbnailViewDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
