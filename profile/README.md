@@ -229,7 +229,7 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
   
   These features requires a license of DotImage Photo Pro or DotImage Document Imaging.  
 
-- [Multipage TIFF Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/MultipageTiffDemo.zip)  
+- [Multipage TIFF Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_MultipageTiffDemo_CS_x64)  [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_MultipageTiffDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_MultipageTiffDemo_VB_x64/archive/refs/heads/main.zip)   
   The Multipage Tiff Demo shows how to view and save multipage Tiff images using the TiffFile class, which allows editing of the image, without the need to open the entire image into memory or the need to re-encode the image data. Some of this functionality includes adding, reordering, or removing pages from the image. The demo also demonstrates many of the Document Imaging functions that are provided with DotImage. 
   
   In addition, this demo makes great use of the ThumbnailView control, displaying all pages in a multipage TIFF in the thumbnail control, as well as allowing the user to reorder and manipulate the individual pages with a nice GUI.
