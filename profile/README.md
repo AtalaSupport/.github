@@ -117,7 +117,7 @@ Samples / Solutions for desktop use for reproducing issues or using as a generic
 - [PdfDocument Combine With Repair](https://www.atalasupport.net/demos/LegacyDemos-11.5/PdfDocumentCombineWithRepair.zip) - C# / VB.NET  
   This is the solution that accompanies our [HOWTO: Combine Multiple PDFs with Automatic Repair of Damaged PDFs](https://www.atalasoft.com/kb2/KB/50071/HOWTO-Combine-Multiple-PDFs-with-Automatic-Repair-of-Damaged-PDFs) KB article.
 
-- [PDF to TIFF Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_PDFtoTIFFDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_PDFtoTIFFDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
+- [PDF to TIFF Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_PDFtoTIFFDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_PDFtoTIFFDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_PDFtoTIFFDemo_VB_x64/archive/refs/heads/main.zip)  
   A very simple console app that converts a PDF file into a TIFF by using in a memory-efficient and PDF-optimized PdfImageSource and our PdfReader addon.
   
   This console app uses our PdfRasterizer to convert a PDF to a TIFF. This approach can easily be adapted to services or plumbed in to batch-based processing.
