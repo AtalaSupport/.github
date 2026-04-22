@@ -93,7 +93,7 @@ Samples / Solutions for desktop use for reproducing issues or using as a generic
 - [DotImage Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DotImageDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DotImageDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_DotImageDemo_VB_x64/archive/refs/heads/main.zip)  
   The most comprehensive of all the demos demonstrating most of the image processing commands and codecs. This is a good place to learn about the UI features that dotImage offers, as well as testing of image effects, and transforms.   
 
-- [Folder ThumbnailView Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_FolderThumbnailViewDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_FolderThumbnailViewDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
+- [Folder ThumbnailView Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_FolderThumbnailViewDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_FolderThumbnailViewDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_FolderThumbnailViewDemo_VB_x64/archive/refs/heads/main.zip)  
   The FolderThumbnailView is a control (derived from the ThumbnailView class) that will display images in a directory as thumbnails. This is useful for displaying the contents of a directory on disk.
   
   The demo shows how the thumbnails can be resized, reordered, and used to show a larger version of the image in the viewer. A background image may also be added to the thumbnails, along with many other features available in the thumbnail control.  
