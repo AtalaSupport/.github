@@ -98,7 +98,7 @@ Samples / Solutions for desktop use for reproducing issues or using as a generic
   
   The demo shows how the thumbnails can be resized, reordered, and used to show a larger version of the image in the viewer. A background image may also be added to the thumbnails, along with many other features available in the thumbnail control.  
  
-- [Office to PDF Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_OfficeToPdfDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_OfficeToPdfDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
+- [Office to PDF Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_OfficeToPdfDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_OfficeToPdfDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_OfficeToPdfDemo_VB_x64/archive/refs/heads/main.zip)  
   A sample application to show how to convert office (supported formats such as Word, RTF, PowerPoint, Excel, and MSG) into PDF. This is a very simple console app that converts a Word (.docx or .doc) file into a PDF by using in a memory-efficient way using FileSystemImageSource.
   
   Keep in mind that our support of the older word document format .doc (Word 97 - 2007) is limited. It will work for simpler .doc documents, but for best results, convert your .doc files to the newer .docx (Word 2010 and newer) format first.
