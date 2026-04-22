@@ -252,7 +252,7 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
 - [PDF Text Node Extractor](https://github.com/AtalaSupport/DemoGallery_Desktop_PdfTextNodeExtractorDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_PdfTextNodeExtractorDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_PdfTextNodeExtractorDemo_VB_x64/archive/refs/heads/main.zip)  
   Extracting text from Pdf Text annotations
 
-- [PhotoEffects Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_PhotoEffectsDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_PhotoEffectsDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET 
+- [PhotoEffects Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_PhotoEffectsDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_PhotoEffectsDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_PhotoEffectsDemo_VB_x64/archive/refs/heads/main.zip)  
   Various PhotoEffect classes demonstrated
 
 - [Custom OCR Translator Demo (Formerly PigLatin)](https://github.com/AtalaSupport/DemoGallery_Desktop_CustomOcrTranslatorDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_CustomOcrTranslatorDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
