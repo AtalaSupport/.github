@@ -85,7 +85,7 @@ Samples / Solutions for desktop use for reproducing issues or using as a generic
   
   If you are having trouble recognizing a barcode, this demo may help to see why. Requires DotImage and DotImage BarcodeReader. 
 
-- [Document Regions Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentRegionsDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentRegionsDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
+- [Document Regions Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentRegionsDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentRegionsDemo_CS_x64/archive/refs/heads/main.zip) only    
   This is a "Zonal OCR" example. Its actually 2 separate demos: a Creator that gives an example of how to create a Zonal OCR template and a Reader that shows how one might apply the templates.
    
 - [DotAnnotate Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DotAnnotateDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DotAnnotateDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
