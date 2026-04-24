@@ -261,7 +261,7 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
 - [RAW Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_RawDemo_CS_x64)  [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_RawDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   RawDecoder can handle raw image formats from many digital SLRs and other high end cameras.
 
-- [Threaded Command Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_ThreadedCommandDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_ThreadedCommandDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
+- [Threaded Command Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_ThreadedCommandDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_ThreadedCommandDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_ThreadedCommandDemo_VB_x64/archive/refs/heads/main.zip)  
   Taking advantage of multithreading to do heavy image processing
 
 - [TIFF Manipulator Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_TiffManipulatorDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_TiffManipulatorDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
