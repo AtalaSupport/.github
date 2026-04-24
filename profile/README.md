@@ -270,7 +270,7 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
 - [TWAIN BarCode Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_TWAINBarCodeDemo_CS_x86)  [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_TWAINBarCodeDemo_CS_x86/archive/refs/heads/main.zip) / VB.NET   
   Shows a common scanning use case - separating a single document with barcode (patch) page separators into separate doucments
 
-- [WPF Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/WpfDemo.zip)  
+- [WPF Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_WpfDemo_CS_x64)  [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_WpfDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_WpfDemo_VB_x64/archive/refs/heads/main.zip)  
   A WPF desktop application using AtalaImageViewer (our WPF image viewer similar to WorkspaceViewer on the Winforms side)
 
 ## Getting Help for Atalasoft products
