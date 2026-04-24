@@ -264,7 +264,7 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
 - [Threaded Command Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_ThreadedCommandDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_ThreadedCommandDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_ThreadedCommandDemo_VB_x64/archive/refs/heads/main.zip)  
   Taking advantage of multithreading to do heavy image processing
 
-- [TIFF Manipulator Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_TiffManipulatorDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_TiffManipulatorDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
+- [TIFF Manipulator Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_TiffManipulatorDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_TiffManipulatorDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_TiffManipulatorDemo_VB_x64/archive/refs/heads/main.zip)  
   TiffManipulator shows how you can use our TiffDocument and ThumbnailView control to make a winforms gui to let you rearrange pages in a tiff and even combine or delete pages.
    
 - [TWAIN BarCode Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_TWAINBarCodeDemo_CS_x86)  [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_TWAINBarCodeDemo_CS_x86/archive/refs/heads/main.zip) / VB.NET   
