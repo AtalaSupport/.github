@@ -26,25 +26,25 @@ You may also find our [full list of current demos](https://www.atalasoft.com/kb2
 
 #### Demo Apps
 
-- [Web Viewing (WDV) Demo](https://github.com/AtalaSupport/DemoGallery_Web_WebViewingDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Web_WebViewingDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET (not currently available)
+- [Web Viewing (WDV) Demo](https://github.com/AtalaSupport/DemoGallery_Web_WebViewingDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Web_WebViewingDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET (not currently available)
   A demo showing our flagship WebDocumentViewer (with WebDocumentThumbnailer) with file upload enabled as well as an example of how implement printing
 
 - [Simple WDV with WDT](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVwithWDT_CS_x64)
   This is a minimal test harness / repro. Please see the link to it in the section on Test Harness / Repro below
 
-- [WDV Annotation Loader Stub](https://github.com/AtalaSupport/DemoGallery_Web_WdvAnnotationLoaderStub) [C#](https://github.com/AtalaSupport/DemoGallery_Web_WdvAnnotationLoaderStub/archive/refs/heads/main.zip) / VB.NET  
+- [WDV Annotation Loader Stub](https://github.com/AtalaSupport/DemoGallery_Web_WdvAnnotationLoaderStub) - [C#](https://github.com/AtalaSupport/DemoGallery_Web_WdvAnnotationLoaderStub/archive/refs/heads/main.zip) / VB.NET  
   This is a convenience class library example for loading WDV annotations, not terribly useful on its own
 
 ### WingScan (Web Capture)
 
-- [WingScan (Web Scanning) Demo](https://github.com/AtalaSupport/DemoGallery_Web_WingScanDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Web_WingScanDemo_CS_x64/archive/refs/heads/main.zip)  / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Web_WingScanDemo_VB_x64/archive/refs/heads/main.zip)
+- [WingScan (Web Scanning) Demo](https://github.com/AtalaSupport/DemoGallery_Web_WingScanDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Web_WingScanDemo_CS_x64/archive/refs/heads/main.zip)  / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Web_WingScanDemo_VB_x64/archive/refs/heads/main.zip)
   Wing Scan is our flagship web-based-scanning component (WebCapture). Demo is available in both VB.NET and C#. 
   
   Please also have a look at our [WingScan .NET Framework](https://www.atalasoft.com/KB2/KB/50370/INFO-WebDocumentViewer-Whitepaper-Getting-Started-With-Web-Viewing) or [WingScan .NET 8+](https://www.atalasoft.com/kb2/KB/50410/INFOWDV-and-WebCapture-In-NET-8-Whitepaper-Getting-Started) tutorials.
 
 ### RequireJS (Modularzed) WebDocumentViewer / WebCapture
 
-- [Basic WDV With Require JS](https://github.com/AtalaSupport/DemoGallery_Web_BasicWdv_RequireJS_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Web_BasicWdv_RequireJS_CS_x64/archive/refs/heads/main.zip) / VB.NET (not currently available)
+- [Basic WDV With Require JS](https://github.com/AtalaSupport/DemoGallery_Web_BasicWdv_RequireJS_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Web_BasicWdv_RequireJS_CS_x64/archive/refs/heads/main.zip) / VB.NET (not currently available)
 - [Basic WebCapture (no Viewer) With Require JS](https://github.com/AtalaSupport/DemoGallery_Web_BasicWebCapture_noViewer_RequireJS_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Web_BasicWebCapture_noViewer_RequireJS_CS_x64/archive/refs/heads/main.zip) / VB.NET (not currently available)
 - [Basic WebCapture (with Viewer) With Require JS](https://github.com/AtalaSupport/DemoGallery_Web_BasicWebCapture_withViewer_RequireJS) [C#](https://github.com/AtalaSupport/DemoGallery_Web_BasicWebCapture_withViewer_RequireJS/archive/refs/heads/main.zip) / VB.NET (not currently available)
 
@@ -61,7 +61,7 @@ Samples / Solutions for desktop use for reproducing issues or using as a generic
 - [SimpleAtalaConsole](https://github.com/AtalaSupport/SimpleAtalaConsole/wiki) - [C# x64](https://github.com/AtalaSupport/SimpleAtalaConsole/archive/refs/heads/main.zip) / [VB.NET x64](https://github.com/AtalaSupport/SimpleAtalaConsoleVB/archive/refs/heads/main.zip)  
   This is a Minimal .NET Framework Console App which is useful as a minimal repro / test harness
 
-- [Simple WDV with WDT](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVwithWDT_CS_x64)  [C#](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVwithWDT_CS_x64/archive/refs/heads/main.zip) / VB.NET  
+- [Simple WDV with WDT](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVwithWDT_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVwithWDT_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   Minimal teaching example and Test / Repro harness for our modern WebDocumentViewer and WebDocumentThumbnailer.
 
 ### Most Common / Popular
@@ -131,7 +131,7 @@ Samples / Solutions for desktop use for reproducing issues or using as a generic
   
   > **Note:** This sample app is fairly bare-bones, but the concepts covered can easily be applied to your console app, windows service, web service, etc...    
 
-- [Simple OCR Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_SimpleOCRDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_SimpleOCRDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_SimpleOCRDemo_VB_x64/archive/refs/heads/main.zip)  
+- [Simple OCR Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_SimpleOCRDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_SimpleOCRDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_SimpleOCRDemo_VB_x64/archive/refs/heads/main.zip)  
   A sample application to show how to use our currently supported OCR Engines.
   
   This 2026.2 version features Tesseract5Engine, GlyphReaderEngine, and OmniPageEngine
@@ -143,7 +143,7 @@ Samples / Solutions for desktop use for reproducing issues or using as a generic
   
   By setting a handler for PdfEnc.SetEncoderCompression, we are able to dynamically select the most appropriate form of image compression to apply, based on the PixelFormat (color depth) of each page.  
 
-- [WPF Annotations Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_WpfAnnotationsDemoDemo_CS_x64)  - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_WpfAnnotationsDemoDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET]([https://github.com/AtalaSupport/DemoGallery_Desktop_WpfAnnotationsDemoDemo_VB_x64/archive/refs/heads/main.zip)  
+- [WPF Annotations Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_WpfAnnotationsDemoDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_WpfAnnotationsDemoDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET]([https://github.com/AtalaSupport/DemoGallery_Desktop_WpfAnnotationsDemoDemo_VB_x64/archive/refs/heads/main.zip)  
   This is a WPF application that shows how to use our WPF Annotation Viewer control. The source code should provide a good working example of how yo use our AtalaAnnotationViewer (the WPF version of our AnnotateViewer Windows Forms control) and our annotations in a WPF application .
   
   See below for WPFDemo if you just want a non-annotation-aware WPF Image Viewer.
@@ -183,22 +183,22 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
 - [Database Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DatabaseDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DatabaseDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   Sample of using our DbImageSource class.  
 
-- [Dicom Leveling Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DicomLevelingDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DicomLevelingDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET 
+- [Dicom Leveling Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DicomLevelingDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DicomLevelingDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET 
   Dicom images are specific to the Medical Imaging area, and contain far greater range of brightness / levels than average monitors can show. This demo shows how to traverse various Dicom Levels to see different levels (brightness) of an image.  
 
-- [Dicom Viewer Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DicomViewerDemo_CS_x64)  [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DicomViewerDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
+- [Dicom Viewer Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DicomViewerDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DicomViewerDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   An implementation of our DicomDecoder with an image viewer.  
 
 - [DocumentViewer Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentViewerDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentViewerDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentViewerDemo_VB_x64/archive/refs/heads/main.zip)  
   Our DocumentViewer Windows Forms viewing control combines a ThumbnailView and WorkspaceViewer into a single control which is designed to prevent common memory issues arising from improper use of the individual controls.  
 
-- [DotPdf Invoice Layout Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DotPdfInvoiceLayoutDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DotPdfInvoiceLayoutDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
+- [DotPdf Invoice Layout Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DotPdfInvoiceLayoutDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DotPdfInvoiceLayoutDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   A simple Invoice layout sample using our PdfGeneratedDocument class.  
 
-- [DotPdf Invoice Shape Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DotPdfInvoiceShapeDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DotPdfInvoiceShapeDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET    
+- [DotPdf Invoice Shape Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DotPdfInvoiceShapeDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DotPdfInvoiceShapeDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET    
   Creating an "invoice shape" to allow a more advanced Invoice example with PdfGeneratedDocument.  
 
-- [DotPdf Invoice Template Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DotPdfInvoiceTemplateDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DotPdfInvoiceTemplateDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
+- [DotPdf Invoice Template Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DotPdfInvoiceTemplateDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DotPdfInvoiceTemplateDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   Using an "Invoice Template" with PdfGeneratedDocument.    
 
 - [DotPdf Shapes Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DotPdfShapesDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DotPdfShapesDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
@@ -207,19 +207,19 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
 - [DotPdf Template Generator Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DotPdfTemplateGeneratorDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DotPdfTemplateGeneratorDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   A tool to generate a template for use with PdfGeneratedDocument.  
 
-- [ISIS Scanning Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_IsisAcquisitionDemo_CS_x86) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_IsisAcquisitionDemo_CS_x86/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_IsisAcquisitionDemo_VB_x86/archive/refs/heads/main.zip)  
+- [ISIS Scanning Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_IsisAcquisitionDemo_CS_x86) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_IsisAcquisitionDemo_CS_x86/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_IsisAcquisitionDemo_VB_x86/archive/refs/heads/main.zip)  
   Sample app for using our ISIS scanning. NOTE: this is an x86 example as we do not offer a 64 bit version of the ISIS scanning component.  
 
 - [ISIS Settings Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/IsisSettingsDemo.zip)  
   Sample app for storing and retrieving ISIS scanning settings. NOTE: this is an x86 example as we do not offer a 64 bit version of the ISIS scanning component.  
 
-- [Jpeg2000 Viewer Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_Jpeg2000ViewerDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_Jpeg2000ViewerDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_Jpeg2000ViewerDemo_VB_x64/archive/refs/heads/main.zip)  
+- [Jpeg2000 Viewer Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_Jpeg2000ViewerDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_Jpeg2000ViewerDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_Jpeg2000ViewerDemo_VB_x64/archive/refs/heads/main.zip)  
   Simple example of using our Jp2Decoder to view Jpeg2000 images.  
 
-- [Levels and Curves Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_LevelsAndCurvesDemo_CS_x64)  [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_LevelsAndCurvesDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_LevelsAndCurvesDemo_VB_x64/archive/refs/heads/main.zip)  
+- [Levels and Curves Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_LevelsAndCurvesDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_LevelsAndCurvesDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_LevelsAndCurvesDemo_VB_x64/archive/refs/heads/main.zip)  
   Levels and Curves applied to images.  
 
-- [Low-Level TWAIN Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_LowLevelTwainDemo_CS_x86) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_LowLevelTwainDemo_CS_x86/archive/refs/heads/main.zip) / VB.NET 
+- [Low-Level TWAIN Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_LowLevelTwainDemo_CS_x86) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_LowLevelTwainDemo_CS_x86/archive/refs/heads/main.zip) / VB.NET 
   A very low-level example of directly using our TwainController class instead of using the higher level Acquisition class.  
 
 - [Metadata Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_MetadataDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_MetadataDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_MetadataDemo_VB_x64/archive/refs/heads/main.zip)  
@@ -229,15 +229,15 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
   
   These features requires a license of DotImage Photo Pro or DotImage Document Imaging.  
 
-- [Multipage TIFF Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_MultipageTiffDemo_CS_x64)  [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_MultipageTiffDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_MultipageTiffDemo_VB_x64/archive/refs/heads/main.zip)   
+- [Multipage TIFF Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_MultipageTiffDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_MultipageTiffDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_MultipageTiffDemo_VB_x64/archive/refs/heads/main.zip)   
   The Multipage Tiff Demo shows how to view and save multipage Tiff images using the TiffFile class, which allows editing of the image, without the need to open the entire image into memory or the need to re-encode the image data. Some of this functionality includes adding, reordering, or removing pages from the image. The demo also demonstrates many of the Document Imaging functions that are provided with DotImage. 
   
   In addition, this demo makes great use of the ThumbnailView control, displaying all pages in a multipage TIFF in the thumbnail control, as well as allowing the user to reorder and manipulate the individual pages with a nice GUI.
 
-- [Multithread TWAIN Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_MultithreadTwainDemo_CS_x86) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_MultithreadTwainDemo_CS_x86/archive/refs/heads/main.zip) / VB.NET  
+- [Multithread TWAIN Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_MultithreadTwainDemo_CS_x86) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_MultithreadTwainDemo_CS_x86/archive/refs/heads/main.zip) / VB.NET  
   Using our TWAIN Acquistion class in a Multithreaded Windows Forms context
 
-- [OCR Diagnostic Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_OcrDiagnosticDemo_CS_x64)  [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_OcrDiagnosticDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_OcrDiagnosticDemo_VB__x64/archive/refs/heads/main.zip)  
+- [OCR Diagnostic Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_OcrDiagnosticDemo_CS_x64) -  [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_OcrDiagnosticDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_OcrDiagnosticDemo_VB__x64/archive/refs/heads/main.zip)  
   "See" an image the way OCR does. Useful for determining what went wrong.
 
 - [OfficeDecoder Text Extraction Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/OfficeDecoderTextExtraction.zip)  
@@ -249,28 +249,28 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
 - [PDF Manipulator Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_PdfManipulatorDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_PdfManipulatorDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_PdfManipulatorDemo_VB_x64/archive/refs/heads/main.zip)  
   PdfManipulator lets you reorder pages in PDFs via GUI
 
-- [PDF Text Node Extractor](https://github.com/AtalaSupport/DemoGallery_Desktop_PdfTextNodeExtractorDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_PdfTextNodeExtractorDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_PdfTextNodeExtractorDemo_VB_x64/archive/refs/heads/main.zip)  
+- [PDF Text Node Extractor](https://github.com/AtalaSupport/DemoGallery_Desktop_PdfTextNodeExtractorDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_PdfTextNodeExtractorDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_PdfTextNodeExtractorDemo_VB_x64/archive/refs/heads/main.zip)  
   Extracting text from Pdf Text annotations
 
-- [PhotoEffects Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_PhotoEffectsDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_PhotoEffectsDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_PhotoEffectsDemo_VB_x64/archive/refs/heads/main.zip)  
+- [PhotoEffects Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_PhotoEffectsDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_PhotoEffectsDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_PhotoEffectsDemo_VB_x64/archive/refs/heads/main.zip)  
   Various PhotoEffect classes demonstrated
 
 - [Custom OCR Translator Demo (Formerly PigLatin)](https://github.com/AtalaSupport/DemoGallery_Desktop_CustomOcrTranslatorDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_CustomOcrTranslatorDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_CustomOcrTranslatorDemo_VB_x64/archive/refs/heads/main.zip)  
   A "fun" implementation of a custom OcrTranslator. In this case, we apply "Pig Latin" rules to English text to emonstratedae igpay atinlay.
 
-- [RAW Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_RawDemo_CS_x64)  [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_RawDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
+- [RAW Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_RawDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_RawDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   RawDecoder can handle raw image formats from many digital SLRs and other high end cameras.
 
-- [Threaded Command Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_ThreadedCommandDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_ThreadedCommandDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_ThreadedCommandDemo_VB_x64/archive/refs/heads/main.zip)  
+- [Threaded Command Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_ThreadedCommandDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_ThreadedCommandDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_ThreadedCommandDemo_VB_x64/archive/refs/heads/main.zip)  
   Taking advantage of multithreading to do heavy image processing
 
 - [TIFF Manipulator Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_TiffManipulatorDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_TiffManipulatorDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_TiffManipulatorDemo_VB_x64/archive/refs/heads/main.zip)  
   TiffManipulator shows how you can use our TiffDocument and ThumbnailView control to make a winforms gui to let you rearrange pages in a tiff and even combine or delete pages.
    
-- [TWAIN BarCode Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_TWAINBarCodeDemo_CS_x86)  [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_TWAINBarCodeDemo_CS_x86/archive/refs/heads/main.zip) / VB.NET   
+- [TWAIN BarCode Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_TWAINBarCodeDemo_CS_x86) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_TWAINBarCodeDemo_CS_x86/archive/refs/heads/main.zip) / VB.NET   
   Shows a common scanning use case - separating a single document with barcode (patch) page separators into separate doucments
 
-- [WPF Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_WpfDemo_CS_x64)  [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_WpfDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_WpfDemo_VB_x64/archive/refs/heads/main.zip)  
+- [WPF Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_WpfDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_WpfDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_WpfDemo_VB_x64/archive/refs/heads/main.zip)  
   A WPF desktop application using AtalaImageViewer (our WPF image viewer similar to WorkspaceViewer on the Winforms side)
 
 ## Getting Help for Atalasoft products
