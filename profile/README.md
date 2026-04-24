@@ -210,7 +210,7 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
 - [ISIS Acquisition Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_IsisAcquisitionDemo_CS_x86) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_IsisAcquisitionDemo_CS_x86/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_IsisAcquisitionDemo_VB_x86/archive/refs/heads/main.zip)  
   Sample app for using our ISIS scanning. NOTE: this is an x86 example as we do not offer a 64 bit version of the ISIS scanning component.  
 
-- [ISIS Settings Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_IsisSettingsDemo_CS_x86) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_IsisSettingsDemo_CS_x86/archive/refs/heads/main.zip)  [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_IsisSettingsDemo_VB_x86/archive/refs/heads/main.zip)  
+- [ISIS Settings Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_IsisSettingsDemo_CS_x86) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_IsisSettingsDemo_CS_x86/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_IsisSettingsDemo_VB_x86/archive/refs/heads/main.zip)  
   Sample app for storing and retrieving ISIS scanning settings. NOTE: this is an x86 example as we do not offer a 64 bit version of the ISIS scanning component.  
 
 - [Jpeg2000 Viewer Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_Jpeg2000ViewerDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_Jpeg2000ViewerDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_Jpeg2000ViewerDemo_VB_x64/archive/refs/heads/main.zip)  
