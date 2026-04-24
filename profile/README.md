@@ -234,7 +234,7 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
   
   In addition, this demo makes great use of the ThumbnailView control, displaying all pages in a multipage TIFF in the thumbnail control, as well as allowing the user to reorder and manipulate the individual pages with a nice GUI.
 
-- [Multithread TWAIN Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_MultithreadTwainDemo_CS_x86) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_MultithreadTwainDemo_CS_x86/archive/refs/heads/main.zip) / VB.NET  
+- [Multithread TWAIN Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_MultithreadTwainDemo_CS_x86) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_MultithreadTwainDemo_CS_x86/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_MultithreadTwainDemo_VB_x86/archive/refs/heads/main.zip)  
   Using our TWAIN Acquistion class in a Multithreaded Windows Forms context
 
 - [OCR Diagnostic Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_OcrDiagnosticDemo_CS_x64) -  [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_OcrDiagnosticDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_OcrDiagnosticDemo_VB__x64/archive/refs/heads/main.zip)  
