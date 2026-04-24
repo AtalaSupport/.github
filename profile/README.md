@@ -136,7 +136,7 @@ Samples / Solutions for desktop use for reproducing issues or using as a generic
   
   This 2026.2 version features Tesseract5Engine, GlyphReaderEngine, and OmniPageEngine
 
-- [TIFF to PDF Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_TIFFtoPDFDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_TIFFtoPDFDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
+- [TIFF to PDF Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_TIFFtoPDFDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_TIFFtoPDFDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_TIFFtoPDFDemo_VB_x64/archive/refs/heads/main.zip)  
   Sample app of best practice to convert multi-page TIFF to PDF (but supports other supported single frame formats as well, such as BMP, JPG, PNG, etc...). A very simple console app that converts a TIFF file into a PDF by using in a memory-efficient way using FileSystemImageSource, which is used to read each frame of the target file directly into a PDF Encoder. Each page read will trigger a Compression Selector event so you can choose the best compression to use for that specific page's Pixel Format.
   
   This approach can easily be adapted to services or plumbed in to batch-based processing.
