@@ -125,7 +125,7 @@ A very simple console app that converts a PDF file into a TIFF by using in a mem
   
   By setting a handler for TiffEncoder.SetEncoderCompression, we are able to dynamically select the most appropriate form of image compression to apply, based on the PixelFormat (color depth) of each page.  
 
-- [Searchable PDF (OCR) Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_SearchablePdfDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_SearchablePdfDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
+- [Searchable PDF (OCR) Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_SearchablePdfDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_SearchablePdfDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_SearchablePdfDemo_VB_x64/archive/refs/heads/main.zip)  
 This demo uses our OCR engine to convert an input image (single or multi-page) into a searchable PDF using a GlyphReaderEngine and our PdfTranslator class.  
   
   Pre-Processing options (deskewing, border removal, text inversion and line removal) are also provided. 
