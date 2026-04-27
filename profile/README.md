@@ -40,7 +40,7 @@ This is a convenience class library example for loading WDV annotations, not ter
 - [WingScan (Web Scanning) Demo](https://github.com/AtalaSupport/DemoGallery_Web_WingScanDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Web_WingScanDemo_CS_x64/archive/refs/heads/main.zip)  / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Web_WingScanDemo_VB_x64/archive/refs/heads/main.zip)  
 Wing Scan is our flagship web-based-scanning component (WebCapture). Demo is available in both VB.NET and C#.  
 
-Please also have a look at our [WingScan .NET Framework](https://www.atalasoft.com/KB2/KB/50370/INFO-WebDocumentViewer-Whitepaper-Getting-Started-With-Web-Viewing) or [WingScan .NET 8+](https://www.atalasoft.com/kb2/KB/50410/INFOWDV-and-WebCapture-In-NET-8-Whitepaper-Getting-Started) tutorials.  
+  Please also have a look at our [WingScan .NET Framework](https://www.atalasoft.com/KB2/KB/50370/INFO-WebDocumentViewer-Whitepaper-Getting-Started-With-Web-Viewing) or [WingScan .NET 8+](https://www.atalasoft.com/kb2/KB/50410/INFOWDV-and-WebCapture-In-NET-8-Whitepaper-Getting-Started) tutorials.  
 
 ### RequireJS (Modularzed) WebDocumentViewer / WebCapture
 
@@ -76,14 +76,14 @@ This is a 32 bit demo that shows just DotTwain without any of our viewer objects
 - [Document Annotation Viewer Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentAnnotationViewerDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentAnnotationViewerDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentAnnotationViewerDemo_VB_x64/archive/refs/heads/main.zip)  
 The Document Annotation Viewer Demo demonstrates how use our DocumentAnnotationViewer control.  
   
-This demo should be used to gain a basic understanding of how the DotImage DocumentAnnotationViewer functions.  
+  This demo should be used to gain a basic understanding of how the DotImage DocumentAnnotationViewer functions.  
   
-The demo allows you to open various supported image files, automatically loading any supported embedded annotations. It also allows the creation / editing of various annotation types and saving out the resulting file with annotations being embedded for supported formats. Additionally, it shows the ease of use of the built in undo/redo manager, as well as cut, copy, and paste of annotations, and even full document printing with annotations. Requires DotImage license. Optionally, requires PdfRasterizer license in order to open/read PDF files.  
+  The demo allows you to open various supported image files, automatically loading any supported embedded annotations. It also allows the creation / editing of various annotation types and saving out the resulting file with annotations being embedded for supported formats. Additionally, it shows the ease of use of the built in undo/redo manager, as well as cut, copy, and paste of annotations, and even full document printing with annotations. Requires DotImage license. Optionally, requires PdfRasterizer license in order to open/read PDF files.  
 
 - [Barcode Reader Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_BarcodeReaderDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_BarcodeReaderDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_BarcodeReaderDemo_VB_x64/archive/refs/heads/main.zip)    
 The Barcode Reader Demo demonstrates how to read a barcode from an image. This demo should be used to gain a basic understanding of how the DotImage Barcode recognition functions. The demo allows you to set options, such as barcode types, scan directions, scan interval and the number of expected barcodes.  
   
-If you are having trouble recognizing a barcode, this demo may help to see why. Requires DotImage and DotImage BarcodeReader.   
+  If you are having trouble recognizing a barcode, this demo may help to see why. Requires DotImage and DotImage BarcodeReader.   
 
 - [Document Regions Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentRegionsDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentRegionsDemo_CS_x64/archive/refs/heads/main.zip) only    
 This is a "Zonal OCR" example. Its actually 2 separate demos: a Creator that gives an example of how to create a Zonal OCR template and a Reader that shows how one might apply the templates.  
