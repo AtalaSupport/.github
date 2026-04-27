@@ -97,7 +97,7 @@ The most comprehensive of all the demos demonstrating most of the image processi
 - [Folder ThumbnailView Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_FolderThumbnailViewDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_FolderThumbnailViewDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_FolderThumbnailViewDemo_VB_x64/archive/refs/heads/main.zip)  
 The FolderThumbnailView is a control (derived from the ThumbnailView class) that will display images in a directory as thumbnails. This is useful for displaying the contents of a directory on disk.  
   
-The demo shows how the thumbnails can be resized, reordered, and used to show a larger version of the image in the viewer. A background image may also be added to the thumbnails, along with many other features available in the thumbnail control.    
+  The demo shows how the thumbnails can be resized, reordered, and used to show a larger version of the image in the viewer. A background image may also be added to the thumbnails, along with many other features available in the thumbnail control.    
  
 - [Office to PDF Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_OfficeToPdfDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_OfficeToPdfDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_OfficeToPdfDemo_VB_x64/archive/refs/heads/main.zip)  
 A sample application to show how to convert office (supported formats such as Word, RTF, PowerPoint, Excel, and MSG) into PDF. This is a very simple console app that converts a Word (.docx or .doc) file into a PDF by using in a memory-efficient way using FileSystemImageSource.  
@@ -128,7 +128,7 @@ A very simple console app that converts a PDF file into a TIFF by using in a mem
 - [Searchable PDF (OCR) Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_SearchablePdfDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_SearchablePdfDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
 This demo uses our OCR engine to convert an input image (single or multi-page) into a searchable PDF using a GlyphReaderEngine and our PdfTranslator class.  
   
-Pre-Processing options (deskewing, border removal, text inversion and line removal) are also provided. 
+  Pre-Processing options (deskewing, border removal, text inversion and line removal) are also provided. 
   
 > **Note:** This sample app is fairly bare-bones, but the concepts covered can easily be applied to your console app, windows service, web service, etc...    
 
