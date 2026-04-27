@@ -37,10 +37,11 @@ You may also find our [full list of current demos](https://www.atalasoft.com/kb2
 
 ### WingScan (Web Capture)
 
-- [WingScan (Web Scanning) Demo](https://github.com/AtalaSupport/DemoGallery_Web_WingScanDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Web_WingScanDemo_CS_x64/archive/refs/heads/main.zip)  / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Web_WingScanDemo_VB_x64/archive/refs/heads/main.zip)
-  Wing Scan is our flagship web-based-scanning component (WebCapture). Demo is available in both VB.NET and C#. 
-  
-  Please also have a look at our [WingScan .NET Framework](https://www.atalasoft.com/KB2/KB/50370/INFO-WebDocumentViewer-Whitepaper-Getting-Started-With-Web-Viewing) or [WingScan .NET 8+](https://www.atalasoft.com/kb2/KB/50410/INFOWDV-and-WebCapture-In-NET-8-Whitepaper-Getting-Started) tutorials.
+- [WingScan (Web Scanning) Demo](https://github.com/AtalaSupport/DemoGallery_Web_WingScanDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Web_WingScanDemo_CS_x64/archive/refs/heads/main.zip)  / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Web_WingScanDemo_VB_x64/archive/refs/heads/main.zip)  
+
+Wing Scan is our flagship web-based-scanning component (WebCapture). Demo is available in both VB.NET and C#.  
+
+Please also have a look at our [WingScan .NET Framework](https://www.atalasoft.com/KB2/KB/50370/INFO-WebDocumentViewer-Whitepaper-Getting-Started-With-Web-Viewing) or [WingScan .NET 8+](https://www.atalasoft.com/kb2/KB/50410/INFOWDV-and-WebCapture-In-NET-8-Whitepaper-Getting-Started) tutorials.
 
 ### RequireJS (Modularzed) WebDocumentViewer / WebCapture
 
