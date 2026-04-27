@@ -53,7 +53,7 @@ Wing Scan is our flagship web-based-scanning component (WebCapture). Demo is ava
 ### Newest
 A selection of the very newest samples we've created.  
 
-- [HtmlToPdf](https://www.atalasupport.net/demos/ModernDemos-11.5/HtmlToPdf.zip  
+- [HtmlToPdf](https://www.atalasupport.net/demos/ModernDemos-11.5/HtmlToPdf.zip)  
 A demo showing how to use the new HtmlDecoder and TxtDecoder.
 
 ### Minimal Test Harness / Repro Solutions
