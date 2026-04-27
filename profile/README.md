@@ -130,7 +130,7 @@ This demo uses our OCR engine to convert an input image (single or multi-page) i
   
   Pre-Processing options (deskewing, border removal, text inversion and line removal) are also provided. 
   
-> **Note:** This sample app is fairly bare-bones, but the concepts covered can easily be applied to your console app, windows service, web service, etc...    
+  > **Note:** This sample app is fairly bare-bones, but the concepts covered can easily be applied to your console app, windows service, web service, etc...    
 
 - [Simple OCR Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_SimpleOCRDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_SimpleOCRDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_SimpleOCRDemo_VB_x64/archive/refs/heads/main.zip)  
 A sample application to show how to use our currently supported OCR Engines.  
