@@ -100,17 +100,17 @@ The FolderThumbnailView is a control (derived from the ThumbnailView class) that
 The demo shows how the thumbnails can be resized, reordered, and used to show a larger version of the image in the viewer. A background image may also be added to the thumbnails, along with many other features available in the thumbnail control.    
  
 - [Office to PDF Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_OfficeToPdfDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_OfficeToPdfDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_OfficeToPdfDemo_VB_x64/archive/refs/heads/main.zip)  
- A sample application to show how to convert office (supported formats such as Word, RTF, PowerPoint, Excel, and MSG) into PDF. This is a very simple console app that converts a Word (.docx or .doc) file into a PDF by using in a memory-efficient way using FileSystemImageSource.  
+A sample application to show how to convert office (supported formats such as Word, RTF, PowerPoint, Excel, and MSG) into PDF. This is a very simple console app that converts a Word (.docx or .doc) file into a PDF by using in a memory-efficient way using FileSystemImageSource.  
   
-Keep in mind that our support of the older word document format .doc (Word 97 - 2007) is limited. It will work for simpler .doc documents, but for best results, convert your .doc files to the newer .docx (Word 2010 and newer) format first.  
+  Keep in mind that our support of the older word document format .doc (Word 97 - 2007) is limited. It will work for simpler .doc documents, but for best results, convert your .doc files to the newer .docx (Word 2010 and newer) format first.  
   
-Who says you always need a viewer in an imaging application?  
+  Who says you always need a viewer in an imaging application?  
   
-This console app uses our FileSystemImageSource to read each frame of the target file directly into a PDF Encoder. Each page read will trigger a Compression Selector event so you can choose the best compression to use for that specific page's Pixel Format.  
+  This console app uses our FileSystemImageSource to read each frame of the target file directly into a PDF Encoder. Each page read will trigger a Compression Selector event so you can choose the best compression to use for that specific page's Pixel Format.  
   
-This approach can easily be adapted to services or plumbed in to batch-based processing.  
+  This approach can easily be adapted to services or plumbed in to batch-based processing.  
   
-By setting a handler for PdfEnc.SetEncoderCompression, we are able to dynamically select the most appropriate form of image compression to apply, based on the PixelFormat (color depth) of each page.  
+  By setting a handler for PdfEnc.SetEncoderCompression, we are able to dynamically select the most appropriate form of image compression to apply, based on the PixelFormat (color depth) of each page.  
    
 - [PDF Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_PdfDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_PdfDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_PdfDemo_VB_x64/archive/refs/heads/main.zip)  
 Demonstrates how to view and save PDF files with DotImage and DotImage PdfDecoder, as well as our ThumbnailView control. Rasterizes a small thumbnail of each page in the PDF asynchronously while loading the first page in the PDF.  
