@@ -274,10 +274,10 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
   A WPF desktop application using AtalaImageViewer (our WPF image viewer similar to WorkspaceViewer on the Winforms side)
 
 ## Getting Help for Atalasoft products
-<img src="https://github.com/AtalaSupport/.github/blob/main/images/atala_logo_dark.png" align="right" />
-Atalasoft regularly updates our support [Knowledgebase](http://www.atalasoft.com/kb2) with the latest information about our products. To access some resources, you must have a valid Support Agreement with an authorized Atalasoft Reseller/Partner or with Atalasoft directly. Use the tools that Atalasoft provides for researching and identifying issues. 
+<a href="https://www.atalasoft.com/Support" target="_blank"><img src="https://github.com/AtalaSupport/.github/blob/main/images/atala_logo_dark.png" alt="Atalasoft DotImage .NET Imaging SDK" align="right" /></a>
+Atalasoft regularly updates our support [Knowledgebase](http://www.atalasoft.com/kb2) with the latest information about our products. To access some resources, you must have a valid Support Agreement with an authorized Atalasoft Reseller/Partner or with Atalasoft directly. Use the tools that Atalasoft provides for researching and identifying issues.  
 
 Customers with an active evaluation, or those with active support / maintenance may [create a support case](https://www.atalasoft.com/Support/my-portal/Cases/Create-Case) 24/7, or call in to support ([+1 949 236-6510](tel:19492366510) ) during our normal support hours (Monday - Friday 8:00am to 5:00PM Eastern (New York) time).  
 
-Customers who are unable to create a case or call in may [email our Sales Team](email:sales@atalasoft.com).  
+Customers who are unable to create a case or call in may [email our Sales Team](email:sales@atalasoft.com).   
 
