@@ -183,10 +183,10 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
 - [Database Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DatabaseDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DatabaseDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   Sample of using our DbImageSource class.  
 
-- [Dicom Leveling Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DicomLevelingDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DicomLevelingDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET 
+- [Dicom Leveling Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DicomLevelingDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DicomLevelingDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_DicomLevelingDemo_VB_x64/archive/refs/heads/main.zip)   
   Dicom images are specific to the Medical Imaging area, and contain far greater range of brightness / levels than average monitors can show. This demo shows how to traverse various Dicom Levels to see different levels (brightness) of an image.  
 
-- [Dicom Viewer Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DicomViewerDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DicomViewerDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
+- [Dicom Viewer Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DicomViewerDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DicomViewerDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_DicomViewerDemo_VB_x64/archive/refs/heads/main.zip)   
   An implementation of our DicomDecoder with an image viewer.  
 
 - [DocumentViewer Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentViewerDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentViewerDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentViewerDemo_VB_x64/archive/refs/heads/main.zip)  
