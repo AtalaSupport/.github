@@ -121,9 +121,9 @@ This is the solution that accompanies our [HOWTO: Combine Multiple PDFs with Au
 - [PDF to TIFF Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_PDFtoTIFFDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_PDFtoTIFFDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_PDFtoTIFFDemo_VB_x64/archive/refs/heads/main.zip)  
 A very simple console app that converts a PDF file into a TIFF by using in a memory-efficient and PDF-optimized PdfImageSource and our PdfReader addon.  
   
-This console app uses our PdfRasterizer to convert a PDF to a TIFF. This approach can easily be adapted to services or plumbed in to batch-based processing.  
+  This console app uses our PdfRasterizer to convert a PDF to a TIFF. This approach can easily be adapted to services or plumbed in to batch-based processing.  
   
-By setting a handler for TiffEncoder.SetEncoderCompression, we are able to dynamically select the most appropriate form of image compression to apply, based on the PixelFormat (color depth) of each page.  
+  By setting a handler for TiffEncoder.SetEncoderCompression, we are able to dynamically select the most appropriate form of image compression to apply, based on the PixelFormat (color depth) of each page.  
 
 - [Searchable PDF (OCR) Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_SearchablePdfDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_SearchablePdfDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
 This demo uses our OCR engine to convert an input image (single or multi-page) into a searchable PDF using a GlyphReaderEngine and our PdfTranslator class.  
@@ -140,46 +140,46 @@ This 2026.2 version features Tesseract5Engine, GlyphReaderEngine, and OmniPageEn
 - [TIFF to PDF Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_TIFFtoPDFDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_TIFFtoPDFDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_TIFFtoPDFDemo_VB_x64/archive/refs/heads/main.zip)  
 Sample app of best practice to convert multi-page TIFF to PDF (but supports other supported single frame formats as well, such as BMP, JPG, PNG, etc...). A very simple console app that converts a TIFF file into a PDF by using in a memory-efficient way using FileSystemImageSource, which is used to read each frame of the target file directly into a PDF Encoder. Each page read will trigger a Compression Selector event so you can choose the best compression to use for that specific page's Pixel Format.  
   
-This approach can easily be adapted to services or plumbed in to batch-based processing.  
+  This approach can easily be adapted to services or plumbed in to batch-based processing.  
   
-By setting a handler for PdfEnc.SetEncoderCompression, we are able to dynamically select the most appropriate form of image compression to apply, based on the PixelFormat (color depth) of each page.  
+  By setting a handler for PdfEnc.SetEncoderCompression, we are able to dynamically select the most appropriate form of image compression to apply, based on the PixelFormat (color depth) of each page.  
 
 - [WPF Annotations Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_WpfAnnotationsDemoDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_WpfAnnotationsDemoDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_WpfAnnotationsDemoDemo_VB_x64/archive/refs/heads/main.zip)  
 This is a WPF application that shows how to use our WPF Annotation Viewer control. The source code should provide a good working example of how yo use our AtalaAnnotationViewer (the WPF version of our AnnotateViewer Windows Forms control) and our annotations in a WPF application .
   
-See below for WPFDemo if you just want a non-annotation-aware WPF Image Viewer.  
+  See below for WPFDemo if you just want a non-annotation-aware WPF Image Viewer.  
 
 ### Other Demos
 Over the years, we had a lot of demos - these are the rest of those classics - kept updated for the latest releases.
 
 - [AdvancedDocClean Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_AdvancedDocCleanDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_AdvancedDocCleanDemo_CS_x64/archive/refs/heads/main.zip)  / [VB.NET  ](https://github.com/AtalaSupport/DemoGallery_Desktop_AdvancedDocCleanDemo_VB_x64/archive/refs/heads/main.zip)  
-  Demonstrates each of the Document Cleanup and processing commands available in the DotImage Advanced Document Cleanup Module. Shows the before and after images side by side and provides access to each property of each available command. Requires a license of DotImage Document Imaging and DotImage Advanced Document Cleanup to run the compiled demo.  
+Demonstrates each of the Document Cleanup and processing commands available in the DotImage Advanced Document Cleanup Module. Shows the before and after images side by side and provides access to each property of each available command. Requires a license of DotImage Document Imaging and DotImage Advanced Document Cleanup to run the compiled demo.  
 
 - [Citrix TWAIN Scanning Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_CitrixScanningDemo_CS_x86) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_CitrixScanningDemo_CS_x86/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_CitrixScanningDemo_VB_x86/archive/refs/heads/main.zip)  
-  TWAIN Scanning under Citrix (and RemoteDesktop) requires a slightly different approach with our DotTwain components. This is a companion solution to our [HOWTO: Scan through Citrix or RDP (Terminal Server)](https://www.atalasoft.com/kb2/KB/50227/HOWTO-Scan-through-Citrix-or-RDP-Terminal-Server) KB article.  
+TWAIN Scanning under Citrix (and RemoteDesktop) requires a slightly different approach with our DotTwain components. This is a companion solution to our [HOWTO: Scan through Citrix or RDP (Terminal Server)](https://www.atalasoft.com/kb2/KB/50227/HOWTO-Scan-through-Citrix-or-RDP-Terminal-Server) KB article.  
 
 - [Color Extraction Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_ColorExtractionDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_ColorExtractionDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_ColorExtractionDemo_VB_x64/archive/refs/heads/main.zip)  
-  This application provides a demonstration of the ColorExtractionCommand included in the Atalasoft DotImage Advanced Document Cleanup module.
+This application provides a demonstration of the ColorExtractionCommand included in the Atalasoft DotImage Advanced Document Cleanup module.
   
   This command is used to detect color in a color image, and returns a 32-bit BGRA image with the alpha channel covering the non-color regions. This can be used to determine if a scanned image is actually grayscale, in which case the image can be thresholded to B&W and saved using CCIT or JBIG2 compression, or saved as 8-bit grayscale instead of 24-bit color.  
 
 - [Color Management Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_ColorManagementDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_ColorManagementDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_ColorManagementDemo_VB_x64/archive/refs/heads/main.zip)  
-  The Color Management Demo demonstrates how DotImage can use color profiles to display images correctly, and create virtual proofs of images.  
+The Color Management Demo demonstrates how DotImage can use color profiles to display images correctly, and create virtual proofs of images.  
 
 - [Composite Command Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositeCommandDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositeCommandDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositeCommandDemo_VB_x64/archive/refs/heads/main.zip)  
-  Shows how to take arbitrary ImageCommands and encapsulate and compose them into one new single ImageCommand. Uses reflection to display all image commands in all referenced assemblies.   
+Shows how to take arbitrary ImageCommands and encapsulate and compose them into one new single ImageCommand. Uses reflection to display all image commands in all referenced assemblies.   
 
 - [Composite Print Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositePrintDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositePrintDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositePrintDemo_VB_x64/archive/refs/heads/main.zip)  
-  Demonstrates how to use the ImageCompositePrintDocument class to print multiple images on a single page. This is useful for printing multiple photos or a photo collage. It can be used to conserve expensive photo quality paper by efficiently orienting photos on the paper.   
+Demonstrates how to use the ImageCompositePrintDocument class to print multiple images on a single page. This is useful for printing multiple photos or a photo collage. It can be used to conserve expensive photo quality paper by efficiently orienting photos on the paper.   
 
 - [Custom Command Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_CustomCommandDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_CustomCommandDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_CustomCommandDemo_VB_x64/archive/refs/heads/main.zip)    
 If all you do is run this demo, you'll see that it merely lets you open an image and then flip it horizontally or vertically.  
   
-However, under the hood, you'll see that instead of just using DotImage's built in and very capable FlipCommand class, we're actually doing the work inside CustomFlipCommand.  
+  However, under the hood, you'll see that instead of just using DotImage's built in and very capable FlipCommand class, we're actually doing the work inside CustomFlipCommand.  
 
-What is this CustomFlipCommand? It's an example of inheriting our base ImageCommand and using it to build your own. Using the PixelAccessor and PixelMemory classes, we're directly manipulating the underlying pixels that make up the image. What we end up doing is simply rearranging the image, flipping horizontally or vertically... what you do with it is left up to your imagination.  
+  What is this CustomFlipCommand? It's an example of inheriting our base ImageCommand and using it to build your own. Using the PixelAccessor and PixelMemory classes, we're directly manipulating the underlying pixels that make up the image. What we end up doing is simply rearranging the image, flipping horizontally or vertically... what you do with it is left up to your imagination.  
   
-The PixelAccessor and PixelMemory objects are certainly available outside of the ImageCommand structure, but by implementing this as an ImageCommand, you can now use your CustomImageCommand anywhere you would use any of our existing ImageCommand classes.  
+  The PixelAccessor and PixelMemory objects are certainly available outside of the ImageCommand structure, but by implementing this as an ImageCommand, you can now use your CustomImageCommand anywhere you would use any of our existing ImageCommand classes.  
 
 - [Database Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DatabaseDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DatabaseDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_DatabaseDemo_VB_x64/archive/refs/heads/main.zip)  
 Sample of using our DbImageSource class.  
@@ -226,14 +226,14 @@ A very low-level example of directly using our TwainController class instead of 
 - [Metadata Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_MetadataDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_MetadataDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_MetadataDemo_VB_x64/archive/refs/heads/main.zip)  
 Demonstrates how to view, edit, and save metadata in image JPEG, TIFF, RAW, and PNG image files. It includes code that preserves as much metadata as possible when re-saving an image as a TIFF or JPEG.  
   
-The TiffFile class gives the ability to view and edit tiff image metadata without the need to open the image into memory and demonstrates working with arbitrary TIFF tags by embedding an image into the tiff tag. Also demonstrates lossless JPEG features to edit metadata within a JPEG without adding lossy compression artifacts.  
+  The TiffFile class gives the ability to view and edit tiff image metadata without the need to open the image into memory and demonstrates working with arbitrary TIFF tags by embedding an image into the tiff tag. Also demonstrates lossless JPEG features to edit metadata within a JPEG without adding lossy compression artifacts.  
   
-These features requires a license of DotImage Photo Pro or DotImage Document Imaging.  
+  These features requires a license of DotImage Photo Pro or DotImage Document Imaging.  
 
 - [Multipage TIFF Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_MultipageTiffDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_MultipageTiffDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_MultipageTiffDemo_VB_x64/archive/refs/heads/main.zip)   
 The Multipage Tiff Demo shows how to view and save multipage Tiff images using the TiffFile class, which allows editing of the image, without the need to open the entire image into memory or the need to re-encode the image data. Some of this functionality includes adding, reordering, or removing pages from the image. The demo also demonstrates many of the Document Imaging functions that are provided with DotImage. 
   
-In addition, this demo makes great use of the ThumbnailView control, displaying all pages in a multipage TIFF in the thumbnail control, as well as allowing the user to reorder and manipulate the individual pages with a nice GUI.  
+  In addition, this demo makes great use of the ThumbnailView control, displaying all pages in a multipage TIFF in the thumbnail control, as well as allowing the user to reorder and manipulate the individual pages with a nice GUI.  
 
 - [Multithread TWAIN Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_MultithreadTwainDemo_CS_x86) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_MultithreadTwainDemo_CS_x86/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_MultithreadTwainDemo_VB_x86/archive/refs/heads/main.zip)  
 Using our TWAIN Acquistion class in a Multithreaded Windows Forms context.  
