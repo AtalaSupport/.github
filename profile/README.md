@@ -53,7 +53,8 @@ Please also have a look at our [WingScan .NET Framework](https://www.atalasoft.c
 ### Newest
 A selection of the very newest samples we've created.  
 
-- [HtmlToPdf](https://www.atalasupport.net/demos/ModernDemos-11.5/HtmlToPdf.zip) - A demo showing how to use the new HtmlDecoder and TxtDecoder.
+- [HtmlToPdf](https://www.atalasupport.net/demos/ModernDemos-11.5/HtmlToPdf.zip  
+A demo showing how to use the new HtmlDecoder and TxtDecoder.
 
 ### Minimal Test Harness / Repro Solutions
 Samples / Solutions for desktop use for reproducing issues or using as a generic starting point
@@ -171,14 +172,14 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
 - [Composite Print Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositePrintDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositePrintDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_CompositePrintDemo_VB_x64/archive/refs/heads/main.zip)  
   Demonstrates how to use the ImageCompositePrintDocument class to print multiple images on a single page. This is useful for printing multiple photos or a photo collage. It can be used to conserve expensive photo quality paper by efficiently orienting photos on the paper.   
 
-- [Custom Command Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_CustomCommandDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_CustomCommandDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
-  If all you do is run this demo, you'll see that it merely lets you open an image and then flip it horizontally or vertically.  
+- [Custom Command Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_CustomCommandDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_CustomCommandDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_CustomCommandDemo_VB_x64/archive/refs/heads/main.zip)    
+If all you do is run this demo, you'll see that it merely lets you open an image and then flip it horizontally or vertically.  
   
-  However, under the hood, you'll see that instead of just using DotImage's built in and very capable FlipCommand class, we're actually doing the work inside CustomFlipCommand.
+However, under the hood, you'll see that instead of just using DotImage's built in and very capable FlipCommand class, we're actually doing the work inside CustomFlipCommand.  
+
+What is this CustomFlipCommand? It's an example of inheriting our base ImageCommand and using it to build your own. Using the PixelAccessor and PixelMemory classes, we're directly manipulating the underlying pixels that make up the image. What we end up doing is simply rearranging the image, flipping horizontally or vertically... what you do with it is left up to your imagination.  
   
-  What is this CustomFlipCommand? It's an example of inheriting our base ImageCommand and using it to build your own. Using the PixelAccessor and PixelMemory classes, we're directly manipulating the underlying pixels that make up the image. What we end up doing is simply rearranging the image, flipping horizontally or vertically... what you do with it is left up to your imagination.
-  
-  The PixelAccessor and PixelMemory objects are certainly available outside of the ImageCommand structure, but by implementing this as an ImageCommand, you can now use your CustomImageCommand anywhere you would use any of our existing ImageCommand classes.
+The PixelAccessor and PixelMemory objects are certainly available outside of the ImageCommand structure, but by implementing this as an ImageCommand, you can now use your CustomImageCommand anywhere you would use any of our existing ImageCommand classes.  
 
 - [Database Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DatabaseDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DatabaseDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
   Sample of using our DbImageSource class.  
