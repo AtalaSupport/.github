@@ -57,97 +57,97 @@ A selection of the very newest samples we've created.
 A demo showing how to use the new HtmlDecoder and TxtDecoder.
 
 ### Minimal Test Harness / Repro Solutions
-Samples / Solutions for desktop use for reproducing issues or using as a generic starting point
+Samples / Solutions for desktop use for reproducing issues or using as a generic starting point.  
 
 - [SimpleAtalaConsole](https://github.com/AtalaSupport/SimpleAtalaConsole/wiki) - [C# x64](https://github.com/AtalaSupport/SimpleAtalaConsole/archive/refs/heads/main.zip) / [VB.NET x64](https://github.com/AtalaSupport/SimpleAtalaConsoleVB/archive/refs/heads/main.zip)  
-  This is a Minimal .NET Framework Console App which is useful as a minimal repro / test harness
+This is a Minimal .NET Framework Console App which is useful as a minimal repro / test harness.  
 
 - [Simple WDV with WDT](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVwithWDT_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVwithWDT_CS_x64/archive/refs/heads/main.zip) / VB.NET  
-  Minimal teaching example and Test / Repro harness for our modern WebDocumentViewer and WebDocumentThumbnailer.
+Minimal teaching example and Test / Repro harness for our modern WebDocumentViewer and WebDocumentThumbnailer.  
 
 ### Most Common / Popular
 
 - [Advanced Scan-to-File Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_AdvancedScanToFileDemo_CS_x86) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_AdvancedScanToFileDemo_CS_x86/archive/refs/heads/main.zip) / VB.NET  
-  This is a 32 bit demo that shows how to integrate TWAIN scanning with our WinForms DocumentAnnotationViewer control.
+This is a 32 bit demo that shows how to integrate TWAIN scanning with our WinForms DocumentAnnotationViewer control.  
 
 - [TWAIN Acquisition Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_TwainAcquisitionDemo_CS_x86) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_TwainAcquisitionDemo_CS_x86/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_TwainAcquisitionDemo_VB_x86/archive/refs/heads/main.zip)  
-  This is a 32 bit demo that shows just DotTwain without any of our viewer objects - its a great best practices for DotTwain.  
+This is a 32 bit demo that shows just DotTwain without any of our viewer objects - its a great best practices for DotTwain.  
 
 - [Document Annotation Viewer Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentAnnotationViewerDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentAnnotationViewerDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentAnnotationViewerDemo_VB_x64/archive/refs/heads/main.zip)  
-  The Document Annotation Viewer Demo demonstrates how use our DocumentAnnotationViewer control.
+The Document Annotation Viewer Demo demonstrates how use our DocumentAnnotationViewer control.  
   
-  This demo should be used to gain a basic understanding of how the DotImage DocumentAnnotationViewer functions.
+This demo should be used to gain a basic understanding of how the DotImage DocumentAnnotationViewer functions.  
   
-  The demo allows you to open various supported image files, automatically loading any supported embedded annotations. It also allows the creation / editing of various annotation types and saving out the resulting file with annotations being embedded for supported formats. Additionally, it shows the ease of use of the built in undo/redo manager, as well as cut, copy, and paste of annotations, and even full document printing with annotations. Requires DotImage license. Optionally, requires PdfRasterizer license in order to open/read PDF files.
+The demo allows you to open various supported image files, automatically loading any supported embedded annotations. It also allows the creation / editing of various annotation types and saving out the resulting file with annotations being embedded for supported formats. Additionally, it shows the ease of use of the built in undo/redo manager, as well as cut, copy, and paste of annotations, and even full document printing with annotations. Requires DotImage license. Optionally, requires PdfRasterizer license in order to open/read PDF files.  
 
 - [Barcode Reader Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_BarcodeReaderDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_BarcodeReaderDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_BarcodeReaderDemo_VB_x64/archive/refs/heads/main.zip)    
-  The Barcode Reader Demo demonstrates how to read a barcode from an image. This demo should be used to gain a basic understanding of how the DotImage Barcode recognition functions. The demo allows you to set options, such as barcode types, scan directions, scan interval and the number of expected barcodes. 
+The Barcode Reader Demo demonstrates how to read a barcode from an image. This demo should be used to gain a basic understanding of how the DotImage Barcode recognition functions. The demo allows you to set options, such as barcode types, scan directions, scan interval and the number of expected barcodes.  
   
-  If you are having trouble recognizing a barcode, this demo may help to see why. Requires DotImage and DotImage BarcodeReader. 
+If you are having trouble recognizing a barcode, this demo may help to see why. Requires DotImage and DotImage BarcodeReader.   
 
 - [Document Regions Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentRegionsDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DocumentRegionsDemo_CS_x64/archive/refs/heads/main.zip) only    
-  This is a "Zonal OCR" example. Its actually 2 separate demos: a Creator that gives an example of how to create a Zonal OCR template and a Reader that shows how one might apply the templates.
+This is a "Zonal OCR" example. Its actually 2 separate demos: a Creator that gives an example of how to create a Zonal OCR template and a Reader that shows how one might apply the templates.  
    
 - [DotAnnotate Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DotAnnotateDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DotAnnotateDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_DotAnnotateDemo_VB_x64/archive/refs/heads/main.zip)  
-  This demo shows our AnnotateViewer and the Desktop version of our AnnotationUI classes to read, write and modify annotations on images.  
+This demo shows our AnnotateViewer and the Desktop version of our AnnotationUI classes to read, write and modify annotations on images.  
 
 - [DotImage Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_DotImageDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_DotImageDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_DotImageDemo_VB_x64/archive/refs/heads/main.zip)  
-  The most comprehensive of all the demos demonstrating most of the image processing commands and codecs. This is a good place to learn about the UI features that dotImage offers, as well as testing of image effects, and transforms.   
+The most comprehensive of all the demos demonstrating most of the image processing commands and codecs. This is a good place to learn about the UI features that dotImage offers, as well as testing of image effects, and transforms.   
 
 - [Folder ThumbnailView Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_FolderThumbnailViewDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_FolderThumbnailViewDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_FolderThumbnailViewDemo_VB_x64/archive/refs/heads/main.zip)  
-  The FolderThumbnailView is a control (derived from the ThumbnailView class) that will display images in a directory as thumbnails. This is useful for displaying the contents of a directory on disk.
+The FolderThumbnailView is a control (derived from the ThumbnailView class) that will display images in a directory as thumbnails. This is useful for displaying the contents of a directory on disk.  
   
-  The demo shows how the thumbnails can be resized, reordered, and used to show a larger version of the image in the viewer. A background image may also be added to the thumbnails, along with many other features available in the thumbnail control.  
+The demo shows how the thumbnails can be resized, reordered, and used to show a larger version of the image in the viewer. A background image may also be added to the thumbnails, along with many other features available in the thumbnail control.    
  
 - [Office to PDF Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_OfficeToPdfDemo_CS_x64) [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_OfficeToPdfDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_OfficeToPdfDemo_VB_x64/archive/refs/heads/main.zip)  
-  A sample application to show how to convert office (supported formats such as Word, RTF, PowerPoint, Excel, and MSG) into PDF. This is a very simple console app that converts a Word (.docx or .doc) file into a PDF by using in a memory-efficient way using FileSystemImageSource.
+ A sample application to show how to convert office (supported formats such as Word, RTF, PowerPoint, Excel, and MSG) into PDF. This is a very simple console app that converts a Word (.docx or .doc) file into a PDF by using in a memory-efficient way using FileSystemImageSource.  
   
-  Keep in mind that our support of the older word document format .doc (Word 97 - 2007) is limited. It will work for simpler .doc documents, but for best results, convert your .doc files to the newer .docx (Word 2010 and newer) format first.
+Keep in mind that our support of the older word document format .doc (Word 97 - 2007) is limited. It will work for simpler .doc documents, but for best results, convert your .doc files to the newer .docx (Word 2010 and newer) format first.  
   
-  Who says you always need a viewer in an imaging application?
+Who says you always need a viewer in an imaging application?  
   
-  This console app uses our FileSystemImageSource to read each frame of the target file directly into a PDF Encoder. Each page read will trigger a Compression Selector event so you can choose the best compression to use for that specific page's Pixel Format.
+This console app uses our FileSystemImageSource to read each frame of the target file directly into a PDF Encoder. Each page read will trigger a Compression Selector event so you can choose the best compression to use for that specific page's Pixel Format.  
   
-  This approach can easily be adapted to services or plumbed in to batch-based processing.
+This approach can easily be adapted to services or plumbed in to batch-based processing.  
   
-  By setting a handler for PdfEnc.SetEncoderCompression, we are able to dynamically select the most appropriate form of image compression to apply, based on the PixelFormat (color depth) of each page.
+By setting a handler for PdfEnc.SetEncoderCompression, we are able to dynamically select the most appropriate form of image compression to apply, based on the PixelFormat (color depth) of each page.  
    
 - [PDF Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_PdfDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_PdfDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_PdfDemo_VB_x64/archive/refs/heads/main.zip)  
-  Demonstrates how to view and save PDF files with DotImage and DotImage PdfDecoder, as well as our ThumbnailView control. Rasterizes a small thumbnail of each page in the PDF asynchronously while loading the first page in the PDF.
+Demonstrates how to view and save PDF files with DotImage and DotImage PdfDecoder, as well as our ThumbnailView control. Rasterizes a small thumbnail of each page in the PDF asynchronously while loading the first page in the PDF.  
  
 - [PdfDocument Combine With Repair](https://www.atalasupport.net/demos/LegacyDemos-11.5/PdfDocumentCombineWithRepair.zip) - C# / VB.NET  
-  This is the solution that accompanies our [HOWTO: Combine Multiple PDFs with Automatic Repair of Damaged PDFs](https://www.atalasoft.com/kb2/KB/50071/HOWTO-Combine-Multiple-PDFs-with-Automatic-Repair-of-Damaged-PDFs) KB article.
+This is the solution that accompanies our [HOWTO: Combine Multiple PDFs with Automatic Repair of Damaged PDFs](https://www.atalasoft.com/kb2/KB/50071/HOWTO-Combine-Multiple-PDFs-with-Automatic-Repair-of-Damaged-PDFs) KB article.  
 
 - [PDF to TIFF Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_PDFtoTIFFDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_PDFtoTIFFDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_PDFtoTIFFDemo_VB_x64/archive/refs/heads/main.zip)  
-  A very simple console app that converts a PDF file into a TIFF by using in a memory-efficient and PDF-optimized PdfImageSource and our PdfReader addon.
+A very simple console app that converts a PDF file into a TIFF by using in a memory-efficient and PDF-optimized PdfImageSource and our PdfReader addon.  
   
-  This console app uses our PdfRasterizer to convert a PDF to a TIFF. This approach can easily be adapted to services or plumbed in to batch-based processing.
+This console app uses our PdfRasterizer to convert a PDF to a TIFF. This approach can easily be adapted to services or plumbed in to batch-based processing.  
   
-  By setting a handler for TiffEncoder.SetEncoderCompression, we are able to dynamically select the most appropriate form of image compression to apply, based on the PixelFormat (color depth) of each page. 
+By setting a handler for TiffEncoder.SetEncoderCompression, we are able to dynamically select the most appropriate form of image compression to apply, based on the PixelFormat (color depth) of each page.  
 
 - [Searchable PDF (OCR) Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_SearchablePdfDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_SearchablePdfDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET  
-  This demo uses our OCR engine to convert an input image (single or multi-page) into a searchable PDF using a GlyphReaderEngine and our PdfTranslator class.
+This demo uses our OCR engine to convert an input image (single or multi-page) into a searchable PDF using a GlyphReaderEngine and our PdfTranslator class.  
   
-  Pre-Processing options (deskewing, border removal, text inversion and line removal) are also provided. 
+Pre-Processing options (deskewing, border removal, text inversion and line removal) are also provided. 
   
-  > **Note:** This sample app is fairly bare-bones, but the concepts covered can easily be applied to your console app, windows service, web service, etc...    
+> **Note:** This sample app is fairly bare-bones, but the concepts covered can easily be applied to your console app, windows service, web service, etc...    
 
 - [Simple OCR Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_SimpleOCRDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_SimpleOCRDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_SimpleOCRDemo_VB_x64/archive/refs/heads/main.zip)  
-  A sample application to show how to use our currently supported OCR Engines.
+A sample application to show how to use our currently supported OCR Engines.  
   
-  This 2026.2 version features Tesseract5Engine, GlyphReaderEngine, and OmniPageEngine
+This 2026.2 version features Tesseract5Engine, GlyphReaderEngine, and OmniPageEngine.  
 
 - [TIFF to PDF Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_TIFFtoPDFDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_TIFFtoPDFDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_TIFFtoPDFDemo_VB_x64/archive/refs/heads/main.zip)  
-  Sample app of best practice to convert multi-page TIFF to PDF (but supports other supported single frame formats as well, such as BMP, JPG, PNG, etc...). A very simple console app that converts a TIFF file into a PDF by using in a memory-efficient way using FileSystemImageSource, which is used to read each frame of the target file directly into a PDF Encoder. Each page read will trigger a Compression Selector event so you can choose the best compression to use for that specific page's Pixel Format.
+Sample app of best practice to convert multi-page TIFF to PDF (but supports other supported single frame formats as well, such as BMP, JPG, PNG, etc...). A very simple console app that converts a TIFF file into a PDF by using in a memory-efficient way using FileSystemImageSource, which is used to read each frame of the target file directly into a PDF Encoder. Each page read will trigger a Compression Selector event so you can choose the best compression to use for that specific page's Pixel Format.  
   
-  This approach can easily be adapted to services or plumbed in to batch-based processing.
+This approach can easily be adapted to services or plumbed in to batch-based processing.  
   
-  By setting a handler for PdfEnc.SetEncoderCompression, we are able to dynamically select the most appropriate form of image compression to apply, based on the PixelFormat (color depth) of each page.  
+By setting a handler for PdfEnc.SetEncoderCompression, we are able to dynamically select the most appropriate form of image compression to apply, based on the PixelFormat (color depth) of each page.  
 
-- [WPF Annotations Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_WpfAnnotationsDemoDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_WpfAnnotationsDemoDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET]([https://github.com/AtalaSupport/DemoGallery_Desktop_WpfAnnotationsDemoDemo_VB_x64/archive/refs/heads/main.zip)  
-  This is a WPF application that shows how to use our WPF Annotation Viewer control. The source code should provide a good working example of how yo use our AtalaAnnotationViewer (the WPF version of our AnnotateViewer Windows Forms control) and our annotations in a WPF application .
+- [WPF Annotations Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_WpfAnnotationsDemoDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_WpfAnnotationsDemoDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_WpfAnnotationsDemoDemo_VB_x64/archive/refs/heads/main.zip)  
+This is a WPF application that shows how to use our WPF Annotation Viewer control. The source code should provide a good working example of how yo use our AtalaAnnotationViewer (the WPF version of our AnnotateViewer Windows Forms control) and our annotations in a WPF application .
   
-  See below for WPFDemo if you just want a non-annotation-aware WPF Image Viewer.
+See below for WPFDemo if you just want a non-annotation-aware WPF Image Viewer.  
 
 ### Other Demos
 Over the years, we had a lot of demos - these are the rest of those classics - kept updated for the latest releases.
