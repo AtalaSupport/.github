@@ -5,7 +5,7 @@ Atalasoft's flagship product is DotImage Document Imaging SDK. This is a .NET (.
 
 However, this is a site for our support resources, not really for marketing. If you'd like to know more about what Atalasoft SDKs can do for you, please visit our [products page](https://www.atalasoft.com/Products)
 
-<img src="https://github.com/AtalaSupport/.github/blob/main/images/atala_logo_dark.png" style="display: block; margin: auto; align: right" />
+<img src="https://github.com/AtalaSupport/.github/blob/main/images/atala_logo_dark.png" style="display: inline; margin: auto; align: right" />
 
 Herein, you will find our public Sample apps / demo repositories. This is still a work in progress, as we migrate projects in.
 
