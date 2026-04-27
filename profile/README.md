@@ -5,7 +5,6 @@ Atalasoft's flagship product is DotImage Document Imaging SDK. This is a .NET (.
 
 However, this is a site for our support resources, not really for marketing. If you'd like to know more about what Atalasoft SDKs can do for you, please visit our [products page](https://www.atalasoft.com/Products)
 
-<img src="https://github.com/AtalaSupport/.github/blob/main/images/atala_logo_dark.png" align="right" />
 
 Herein, you will find our public Sample apps / demo repositories. This is still a work in progress, as we migrate projects in.
 
@@ -275,6 +274,7 @@ Over the years, we had a lot of demos - these are the rest of those classics - k
   A WPF desktop application using AtalaImageViewer (our WPF image viewer similar to WorkspaceViewer on the Winforms side)
 
 ## Getting Help for Atalasoft products
+<img src="https://github.com/AtalaSupport/.github/blob/main/images/atala_logo_dark.png" align="right" />
 Atalasoft regularly updates our support [Knowledgebase](http://www.atalasoft.com/kb2) with the latest information about our products. To access some resources, you must have a valid Support Agreement with an authorized Atalasoft Reseller/Partner or with Atalasoft directly. Use the tools that Atalasoft provides for researching and identifying issues. 
 
 Customers with an active evaluation, or those with active support / maintenance may [create a support case](https://www.atalasoft.com/Support/my-portal/Cases/Create-Case) 24/7, or call in to support ([+1 949 236-6510](tel:19492366510) ) during our normal support hours (Monday - Friday 8:00am to 5:00PM Eastern (New York) time).  
