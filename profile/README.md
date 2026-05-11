@@ -29,10 +29,10 @@ You may also find our [full list of current demos](https://www.atalasoft.com/kb2
 - [Web Viewing (WDV) Demo](https://github.com/AtalaSupport/DemoGallery_Web_WebViewingDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Web_WebViewingDemo_CS_x64/archive/refs/heads/main.zip) / VB.NET (not currently available)  
 A demo showing our flagship WebDocumentViewer (with WebDocumentThumbnailer) with file upload enabled as well as an example of how implement printing
 
-- [Simple WDV with WDT](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVwithWDT_CS_x64)  
+- [Simple WDV with WDT](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVwithWDT_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVwithWDT_CS_x64/archive/refs/heads/main.zip) / VB.NET (not currently available)  
 This is a minimal test harness / repro. Please see the link to it in the section on Test Harness / Repro below  
 
-- [WDV Annotation Loader Stub](https://github.com/AtalaSupport/DemoGallery_Web_WdvAnnotationLoaderStub) - [C#](https://github.com/AtalaSupport/DemoGallery_Web_WdvAnnotationLoaderStub/archive/refs/heads/main.zip) / VB.NET  
+- [WDV Annotation Loader Stub](https://github.com/AtalaSupport/DemoGallery_Web_WdvAnnotationLoaderStub) - [C#](https://github.com/AtalaSupport/DemoGallery_Web_WdvAnnotationLoaderStub/archive/refs/heads/main.zip) / VB.NET (not currently available)  
 This is a convenience class library example for loading WDV annotations, not terribly useful on its own
 
 ### WingScan (Web Capture)
