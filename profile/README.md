@@ -32,8 +32,14 @@ A demo showing our flagship WebDocumentViewer (with WebDocumentThumbnailer) with
 - [Simple WDV with WDT](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVwithWDT_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVwithWDT_CS_x64/archive/refs/heads/main.zip) / VB.NET (not currently available)  
 This is a minimal test harness / repro. Please see the link to it in the section on Test Harness / Repro below  
 
+
+- [Simple WDV Minimal Caching](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVMinimalCaching_CS_x64) - [C# x64](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVMinimalCaching_CS_x64/archive/refs/heads/main.zip) / VB.NET   
+This is a very minimal WebDocumentViewer app that shows an example of how to fetch a file from a remote web url and cache it locally for viewing.  
+
+
 - [WDV Annotation Loader Stub](https://github.com/AtalaSupport/DemoGallery_Web_WdvAnnotationLoaderStub) - [C#](https://github.com/AtalaSupport/DemoGallery_Web_WdvAnnotationLoaderStub/archive/refs/heads/main.zip) / VB.NET (not currently available)  
 This is a convenience class library example for loading WDV annotations, not terribly useful on its own
+
 
 ### WingScan (Web Capture)
 
@@ -64,9 +70,6 @@ This is a Minimal .NET Framework Console App which is useful as a minimal repro 
 
 - [Simple WDV with WDT](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVwithWDT_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVwithWDT_CS_x64/archive/refs/heads/main.zip) / VB.NET  
 Minimal teaching example and Test / Repro harness for our modern WebDocumentViewer and WebDocumentThumbnailer.  
-
-- [Simple WDV Minimal Caching](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVMinimalCaching_CS_x64) - [C# x64](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVMinimalCaching_CS_x64/archive/refs/heads/main.zip) / VB.NET 
-This is a very minimal WebDocumentViewer app that shows an example of how to fetch a file from a remote web url and cache it locally for viewing.  
 
 ### Most Common / Popular
 
