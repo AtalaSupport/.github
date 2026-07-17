@@ -33,7 +33,7 @@ A demo showing our flagship WebDocumentViewer (with WebDocumentThumbnailer) with
 This is a minimal test harness / repro. Please see the link to it in the section on Test Harness / Repro below  
 
 
-- [Simple WDV Minimal Caching](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVMinimalCaching_CS_x64) - [C# x64](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVMinimalCaching_CS_x64/archive/refs/heads/main.zip) / VB.NET   
+- [Simple WDV Minimal Caching](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVMinimalCaching_CS_x64) - [C# x64](https://github.com/AtalaSupport/DemoGallery_Web_SimpleWDVMinimalCaching_CS_x64/archive/refs/heads/main.zip) / VB.NET (not currently available)   
 This is a very minimal WebDocumentViewer app that shows an example of how to fetch a file from a remote web url and cache it locally for viewing.  
 
 
