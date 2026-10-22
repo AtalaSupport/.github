@@ -121,7 +121,7 @@ A sample application to show how to convert office (supported formats such as Wo
 - [PDF Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_PdfDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_PdfDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_PdfDemo_VB_x64/archive/refs/heads/main.zip)  
 Demonstrates how to view and save PDF files with DotImage and DotImage PdfDecoder, as well as our ThumbnailView control. Rasterizes a small thumbnail of each page in the PDF asynchronously while loading the first page in the PDF.  
  
-- [PdfDocument Combine With Repair](https://www.atalasupport.net/demos/LegacyDemos-11.5/PdfDocumentCombineWithRepair.zip) - C# / VB.NET  
+- [PdfDocument Combine With Repair](https://github.com/AtalaSupport/DemoGallery_Deksktop_PdfDocCombineWithRepair_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Deksktop_PdfDocCombineWithRepair_CS_x64/archive/refs/heads/main.zip) / VB.NET  
 This is the solution that accompanies our [HOWTO: Combine Multiple PDFs with Automatic Repair of Damaged PDFs](https://www.atalasoft.(mailto:sales@atalasoft.com)/kb2/KB/50071/HOWTO-Combine-Multiple-PDFs-with-Automatic-Repair-of-Damaged-PDFs) KB article.  
 
 - [PDF to TIFF Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_PDFtoTIFFDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_PDFtoTIFFDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_PDFtoTIFFDemo_VB_x64/archive/refs/heads/main.zip)  
