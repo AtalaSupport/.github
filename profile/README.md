@@ -247,10 +247,10 @@ Using our TWAIN Acquistion class in a Multithreaded Windows Forms context.
 - [OCR Diagnostic Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_OcrDiagnosticDemo_CS_x64) -  [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_OcrDiagnosticDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_OcrDiagnosticDemo_VB__x64/archive/refs/heads/main.zip)  
 "See" an image the way OCR does. Useful for determining what went wrong.  
 
-- [OfficeDecoder Text Extraction Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/OfficeDecoderTextExtraction.zip)  
+- [OfficeDecoder Text Extraction Demo](https://www.dropbox.com/scl/fi/bd8285heeqkj2oqtb1cvw/OfficeDecoderTextExtraction.zip?rlkey=9mne4dc0raa6qpu68xae2yj7b&st=vkroqs5e&dl=1)  
 Using OfficeDecoder to extract text.  
 
-- [PdfDoc Simple Repair Demo](https://www.atalasupport.net/demos/LegacyDemos-11.5/PdfDocSimpleRepairDemo.zip)  
+- [PdfDoc Simple Repair Demo](https://www.dropbox.com/scl/fi/hm6kiesqwwl6e8tliu64n/PdfDocSimpleRepairDemo.zip?rlkey=twjar32360gls3nov3878trqp&st=1xwru8zm&dl=1)  
 Our PdfDocument class offers powerful repair options to fix issues / errors.  
 
 - [PDF Manipulator Demo](https://github.com/AtalaSupport/DemoGallery_Desktop_PdfManipulatorDemo_CS_x64) - [C#](https://github.com/AtalaSupport/DemoGallery_Desktop_PdfManipulatorDemo_CS_x64/archive/refs/heads/main.zip) / [VB.NET](https://github.com/AtalaSupport/DemoGallery_Desktop_PdfManipulatorDemo_VB_x64/archive/refs/heads/main.zip)  
